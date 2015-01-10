@@ -62,7 +62,7 @@
 
 ##d. La Rete non è un medium.
 
-[19](http://www.cluetrain.com/newclues/#19). La Rete non è un any more than a conversation is a medium.
+[19](http://www.cluetrain.com/newclues/#19). La Rete non è un any more than a conversazione is a medium.
 La rete non è un medium. Così come una conversazione non è un medium.
 
 
@@ -149,7 +149,7 @@ La rete non è un medium. Così come una conversazione non è un medium.
 
 [45](http://www.cluetrain.com/newclues/#45). Il mondo ci si offre davanti come un buffet, tuttavia [mangiamo sempre](http://www.ethanzuckerman.com/blog/rewire-digital-cosmopolitans-in-the-age-of-connection/) la nostra bistecca e patate, agnello e hummus, pesce e riso, pasta e sugo...
 
-[46](http://www.cluetrain.com/newclues/#46). Facciamo così in parte perchè la conversazione ha bisogno di un terreno comune: linguaggi, interessi, norme, accordi/understandings condivisi. Senza di questi, è difficile se non impossibile avere una conversatione.
+[46](http://www.cluetrain.com/newclues/#46). Facciamo così in parte perchè la conversazione ha bisogno di un terreno comune: linguaggi, interessi, norme, accordi/understandings condivisi. Senza di questi, è difficile se non impossibile avere una conversazionee.
 
 
 [47](http://www.cluetrain.com/newclues/#47). Shared grounds spawn tribes. La solida terra del Mondo tiene distanti le tribù, permettendo loro di sviluppasi in incredibili diversità. Risorgete! Le tribù hanno dato vita al Noi contro Loro e alla guerra. Rejoice? Not so much.
@@ -158,30 +158,29 @@ La rete non è un medium. Così come una conversazione non è un medium.
 [48](http://www.cluetrain.com/newclues/#48). Su Internet, la distanza tra le tribù parte da zero.
 
 
-[49](http://www.cluetrain.com/newclues/#49). Apparently knowing how to find one another interesting is not as easy as it looks.
+[49](http://www.cluetrain.com/newclues/#49). Apparentemente, sapere come trovarci interessanti l'un l'altro non è così semplice come sembra.
 
 
-[50](http://www.cluetrain.com/newclues/#50). That's a challenge we can meet by being open, sympathetic, and patient. We can do it, team! We're \#1! We're \#1!
+[50](http://www.cluetrain.com/newclues/#50). Questa è una sfida che possiamo affrontare essendo aperti, empatici, e pazienti. Possiamo farcela, squadra! Siamo i migliori! 
+
+[51](http://www.cluetrain.com/newclues/#51). Essere accoglienti: questo è un valore che la Rete ha bisogno di imparare dalle migliori culture del nostro mondo reale.
 
 
-[51](http://www.cluetrain.com/newclues/#51). Being welcoming: There's a value La Rete needs to learn from the best of our real world cultures.
+##c. Il marketing rende parlare più difficile.
+
+[52](http://www.cluetrain.com/newclues/#52). Avevamo ragione [la prima volta](http://www.cluetrain.com/): i mercati sono conversazioni.
 
 
-##c. Marketing still makes it harder to talk.
-
-[52](http://www.cluetrain.com/newclues/#52). We were right the [first time](http://www.cluetrain.com/): Markets are conversations.
+[53](http://www.cluetrain.com/newclues/#53). Una conversazione non è tirarci per la manica per mostrarci un prodotto di cui non vogliamo sentier parlare. A conversation isn't your business tugging at our sleeve to shill a product we don't want to hear about.
 
 
-[53](http://www.cluetrain.com/newclues/#53). A conversation isn't your business tugging at our sleeve to shill a product we don't want to hear about.
+[54](http://www.cluetrain.com/newclues/#54). Se vogliamo sapere la verità sui tuoi prodotti, lo scopriremo l'uno dall'altro.
 
 
-[54](http://www.cluetrain.com/newclues/#54). if we want to know the truth about your products, we'll find out from one another.
+[55](http://www.cluetrain.com/newclues/#55). Capiamo bene che queste conversazioni siano incredibilmente interessanti per te. Peccato. Sono nostre.
 
 
-[55](http://www.cluetrain.com/newclues/#55). We understand that these conversations are incredibly valuable to you. Too bad. They're ours.
-
-
-[56](http://www.cluetrain.com/newclues/#56). You're welcome to join our conversation, but only if you tell us who you work for, and if you can speak for yourself and as yourself.
+[56](http://www.cluetrain.com/newclues/#56). Sei il benvenuto nel partecipare alla nostra conversazione, ma solo se ci dici per chi lavori, e se tu puoi parlare per te stesso ed essendo te stesso.
 
 
 [57](http://www.cluetrain.com/newclues/#57). Every time you call us "consumers" we feel like cows looking up the word "meat."
@@ -354,10 +353,10 @@ C’è così tanta più musica nel mondo.
 [108](http://www.cluetrain.com/newclues/#108). In the wrong context, everyone's an a-hole. (Us, too. But you already knew that.) So if you're inviting people over for a swim, post the rules. All trolls, out of the pool!
 
 
-[109](http://www.cluetrain.com/newclues/#109). If the conversations at your site are going badly, it's your fault.
+[109](http://www.cluetrain.com/newclues/#109). If the conversazioni at your site are going badly, it's your fault.
 
 
-[110](http://www.cluetrain.com/newclues/#110). Wherever the conversation is happening, no one owes you a response, no matter how reasonable your argument or how winning your smile.
+[110](http://www.cluetrain.com/newclues/#110). Wherever the conversazione is happening, no one owes you a response, no matter how reasonable your argument or how winning your smile.
 
 
 [111](http://www.cluetrain.com/newclues/#111). Support the businesses that truly "get" the Web. You'll recognize them not just because they sound like us, but because they're on our side.
