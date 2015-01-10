@@ -43,51 +43,47 @@
 [13](http://www.cluetrain.com/newclues/#13). Questo significa che Internet non è fatto per niente in particolare. Non è fatto per i social network, nè per i documenti, nè per la pubblicità, nè per il business, nè per l'educazione, per per il porno, nè per nulla. E' fatto specificamente per fare tutto.
 
 
-[14](http://www.cluetrain.com/newclues/#14). [Optimizing](http://books.google.com/books?id=9lTtWQlLkwwC&pg=PA56&lpg=PA56&dq=optimizing+de-optimizing+david+reed&source=bl&ots=_mqGSLoqSV&sig=TWO4uUTWkzGPDBGmwyS0uqBz0NA&hl=en&sa=X&ei=Nm5lVN-hJtbdsASnzoKQAQ&ved=0CCAQ6AEwAA#v=onepage&q=optimizing%20de-optimizing%20david%20reed&f=false) the Internet for one purpose de-optimizes it for all others.
+[14](http://www.cluetrain.com/newclues/#14). [Ottimizzare](http://books.google.com/books?id=9lTtWQlLkwwC&pg=PA56&lpg=PA56&dq=optimizing+de-optimizing+david+reed&source=bl&ots=_mqGSLoqSV&sig=TWO4uUTWkzGPDBGmwyS0uqBz0NA&hl=en&sa=X&ei=Nm5lVN-hJtbdsASnzoKQAQ&ved=0CCAQ6AEwAA#v=onepage&q=optimizing%20de-optimizing%20david%20reed&f=false) Internet per uno scopo lo de-ottimizza per tutti gli altri.
 
 
-[15](http://www.cluetrain.com/newclues/#15). The Internet like gravity is indiscriminate in its attraction. It pulls us all together, the virtuous and the wicked alike.
+[15](http://www.cluetrain.com/newclues/#15). Internet, come la gravità, è indiscriminato nella sua attrazione. Ci mette insieme, i virtuosi e i cattivi/malvagi.
 
 
-##c. La Rete is not content.
+##c. La Rete non è contenuti.
 
-[16](http://www.cluetrain.com/newclues/#16). There is great content on the Internet. But holy mother of cheeses, the Internet is not made out of content.
-
-
-[17](http://www.cluetrain.com/newclues/#17). A teenager's first poem, the blissful release of a long-kept secret, a fine sketch drawn by a palsied hand, a blog post in a regime that hates the sound of its people's voices — none of these people sat down to write content.
-La prima poesia di un adolescente, la felice rivelazione di un segreto custodito a lungo, un bel disegno buttato giù da una mano paralitica, il post di un blog sotto un regime che odia il suono delle voci del suo popolo – nessuna di queste persone si è seduta a scrivere un contenuto.
+[16](http://www.cluetrain.com/newclues/#16). Ci sono incredibili contenuti su Internet. Ma, santa per Osiride e per Api, Internet internet non è fatta di contenuti.
 
 
-[18](http://www.cluetrain.com/newclues/#18). Did we use the word "content" without quotes? We feel so dirty.
+[17](http://www.cluetrain.com/newclues/#17). La prima poesia di un adolescente, la felice rivelazione di un segreto custodito a lungo, un bel disegno buttato giù da una mano paralitica, il post di un blog sotto un regime che odia il suono delle voci del suo popolo – nessuna di queste persone si è seduta a scrivere un contenuto.
 
 
-##d. La Rete is not a medium.
+[18](http://www.cluetrain.com/newclues/#18). Abbiamo usato la parola "contenuti" senza virgolette? Ci sentiamo molto sporchi.
 
-[19](http://www.cluetrain.com/newclues/#19). La Rete is not a medium any more than a conversation is a medium.
+
+##d. La Rete non è un medium.
+
+[19](http://www.cluetrain.com/newclues/#19). La Rete non è un any more than a conversation is a medium.
 La rete non è un medium. Così come una conversazione non è un medium.
 
 
-[20](http://www.cluetrain.com/newclues/#20). On La Rete, we are the medium. We are the ones who move messages. We do so every time we post or retweet, send a link in an email, or post it on a social network.
-Sulla rete, il medium siamo noi. Noi che muoviamo i messaggi. Lo facciamo ogni volta che pubblichiamo un post, ritwittiamo, mandiamo un link con un’email, o lo postiamo su un social network.
+[20](http://www.cluetrain.com/newclues/#20). Sulla Rete, il medium siamo noi. Noi muoviamo i messaggi. Lo facciamo ogni volta che pubblichiamo un post, ritwittiamo, mandiamo un link con un’email, o lo postiamo su un social network.
 
 
-[21](http://www.cluetrain.com/newclues/#21). Unlike a medium, you and I leave our fingerprints, and sometimes bite marks, on the messages we pass. We tell people why we're sending it. We argue with it. We add a joke. We chop off the part we don't like. We make these messages our own.
-Contrariamente a un medium, io e te lasciamo le nostre impronte digitali, qualche volta il segno di un morso, sui messaggi che passiamo. Diciamo alle persone perché passiamo quel messaggio. Lo discutiamo. Vi aggiungiamo una battuta. Togliamo il pezzo che non ci piace. Così quei messaggi diventano i nostri.
+[21](http://www.cluetrain.com/newclues/#21). Contrariamente a un medium, io e te lasciamo le nostre impronte digitali, e qualche volta il segno di un morso, sui messaggi che passiamo. Diciamo alle persone perché passiamo quel messaggio. Lo discutiamo. Vi aggiungiamo una battuta. Tagliamo il pezzo che non ci piace. Così quei messaggi diventano i nostri.
 
 
-[22](http://www.cluetrain.com/newclues/#22). Every time we move a message through La Rete, it carries a little bit of ourselves with it.
+[22](http://www.cluetrain.com/newclues/#22). Tutte le volte che muoviamo un messaggio attraverso la Rete, porta con sè un piccolo pezzo di noi.
 
 
-[23](http://www.cluetrain.com/newclues/#23). We only move a message through this "medium" if it matters to us in one of the infinite ways that humans care about something.
-Spostiamo un messaggio lungo questo “medium” solo se per noi conta in uno degli infiniti modi in cui qualcosa conta per un essere umano.
+[23](http://www.cluetrain.com/newclues/#23). Spostiamo un messaggio lungo questo “medium” solo se per noi conta in uno degli infiniti modi in cui qualcosa conta per un essere umano.
 
 
-[24](http://www.cluetrain.com/newclues/#24). Caring — mattering — is the motive force of the Internet.
+[24](http://www.cluetrain.com/newclues/#24). Tenerci — tenere a qualcosa/mattering — è il movente (motive force) di Internet.
 
 
-##e The Web is a Wide World.
+##e Il Web è un Wide World.
 
-[25](http://www.cluetrain.com/newclues/#25). In 1991, [Tim Berners-Lee](http://en.wikipedia.org/wiki/Tim_Berners-Lee) used La Rete to create a gift he gave freely to us all: the World Wide Web. Thank you.
+[25](http://www.cluetrain.com/newclues/#25). Nel 1991, [Tim Berners-Lee](http://en.wikipedia.org/wiki/Tim_Berners-Lee) usò la Rete per creare un dono che regalò liberamente a tutti noi: il World Wide Web. Grazie, Tim.
 
 
 [26](http://www.cluetrain.com/newclues/#26). Tim created the Web by providing protocols (there's that word again!) that say how to write a page that can link to any other page without needing anyone's permission.
@@ -115,13 +111,13 @@ Ogni link da parte di una persona che ha qualcosa da dire è un atto di generosi
 #But oh how we have strayed, sisters and brothers...
 ##a. How did we let conversation get [weaponized](http://blog.bl00cyb.org/2014/11/akirachix-and-weaponized-social/), anyway?
 
-[33](http://www.cluetrain.com/newclues/#33). It's important to notice and cherish the talk, the friendship, the thousand acts of sympathy, kindness, and joy we encounter on the Internet.
+[33](http://www.cluetrain.com/newclues/#33). It's important to notice and cherish the talk, the friendship, the thousand acts of sympathy, kindness, and joy we encounter on Internet.
 
 
 [34](http://www.cluetrain.com/newclues/#34). And yet we hear the words "fag" and "nigger" far more on La Rete than off.
 
 
-[35](http://www.cluetrain.com/newclues/#35). Demonization of 'them' — people with looks, languages, opinions, memberships and other groupings we don't understand, like, or tolerate — is worse than ever on the Internet.
+[35](http://www.cluetrain.com/newclues/#35). Demonization of 'them' — people with looks, languages, opinions, memberships and other groupings we don't understand, like, or tolerate — is worse than ever on Internet.
 
 
 [36](http://www.cluetrain.com/newclues/#36). Women in Saudi Arabia can't drive? Meanwhile, [half of us](https://medium.com/message/online-and-offline-violence-towards-women-4c854eb591a5) can't speak on La Rete without [looking over our shoulders](http://www.theguardian.com/technology/2013/aug/05/twitter-bomb-threats-women).
@@ -163,7 +159,7 @@ Il mondo si offre davanti a noi come un buffet, eppure continuiamo a mangiare bi
 [47](http://www.cluetrain.com/newclues/#47). Shared grounds spawn tribes. The Earth's solid ground kept tribes at a distance, enabling them to develop rich differences. Rejoice! Tribes give rise to Us vs. Them and war. Rejoice? Not so much.
 
 
-[48](http://www.cluetrain.com/newclues/#48). On the Internet, the distance between tribes starts at zero.
+[48](http://www.cluetrain.com/newclues/#48). On Internet, the distance between tribes starts at zero.
 
 
 [49](http://www.cluetrain.com/newclues/#49). Apparently knowing how to find one another interesting is not as easy as it looks.
@@ -315,7 +311,7 @@ Il mondo si offre davanti a noi come un buffet, eppure continuiamo a mangiare bi
 #To build and to plant
 ##a. Kumbiyah sounds surprisingly good in an echo chamber.
 
-[94](http://www.cluetrain.com/newclues/#94). The Internet is [astounding](http://www.reddit.com/r/internetisbeautiful). The Web is awesome. You are beautiful. Connect us all and we are more crazily amazing than Jennifer Lawrence. These are simple facts.
+[94](http://www.cluetrain.com/newclues/#94). Internet is [astounding](http://www.reddit.com/r/internetisbeautiful). The Web is awesome. You are beautiful. Connect us all and we are more crazily amazing than Jennifer Lawrence. These are simple facts.
 
 
 [95](http://www.cluetrain.com/newclues/#95). So let's not minimize what La Rete has done in the past twenty years:
@@ -339,7 +335,7 @@ C’è così tanta più musica nel mondo.
 [101](http://www.cluetrain.com/newclues/#101). You want to listen in on a college-level course about something you're interested in? [Google](http://www.bing.com/search?q=google) your topic. Take your pick. For free.
 
 
-[102](http://www.cluetrain.com/newclues/#102). Yeah, the Internet hasn't solved all the world's problems. That's why the Almighty hath given us asses: that we might get off of them.
+[102](http://www.cluetrain.com/newclues/#102). Yeah, Internet hasn't solved all the world's problems. That's why the Almighty hath given us asses: that we might get off of them.
 
 
 [103](http://www.cluetrain.com/newclues/#103). Internet naysayers keep us honest. We just like 'em better when they aren't ingrates.
@@ -347,7 +343,7 @@ C’è così tanta più musica nel mondo.
 
 ##b. A pocket full of homilies.
 
-[104](http://www.cluetrain.com/newclues/#104). We were going to tell you how to fix the Internet in four easy steps, but the only one we could remember is the last one: [profit](http://knowyourmeme.com/memes/profit). So instead, here are some random thoughts…
+[104](http://www.cluetrain.com/newclues/#104). We were going to tell you how to fix Internet in four easy steps, but the only one we could remember is the last one: [profit](http://knowyourmeme.com/memes/profit). So instead, here are some random thoughts…
 
 
 [105](http://www.cluetrain.com/newclues/#105). We should be supporting the artists and creators who bring us delight or ease our burdens.
@@ -374,10 +370,10 @@ C’è così tanta più musica nel mondo.
 [112](http://www.cluetrain.com/newclues/#112). Sure, apps offer a nice experience. But the Web is about links that constantly reach out, connecting us without end. For lives and ideas, completion is death. Choose life.
 
 
-[113](http://www.cluetrain.com/newclues/#113). Anger is a license to be stupid. The Internet's streets are already crowded with licensed drivers.
+[113](http://www.cluetrain.com/newclues/#113). Anger is a license to be stupid. Internet's streets are already crowded with licensed drivers.
 
 
-[114](http://www.cluetrain.com/newclues/#114). Live the values you want the Internet to promote.
+[114](http://www.cluetrain.com/newclues/#114). Live the values you want Internet to promote.
 
 
 [115](http://www.cluetrain.com/newclues/#115). If you've been talking for a while, shut up. (We will very soon.)
@@ -385,13 +381,13 @@ C’è così tanta più musica nel mondo.
 
 ##c. Being together: the cause of and solution to every [problem](http://en.wikipedia.org/wiki/Homer_vs._the_Eighteenth_Amendment).
 
-[116](http://www.cluetrain.com/newclues/#116). If we have focused on the role of the People of La Rete  — you and us — in the Internet's fall from grace, that's because we still have the faith we came in with.
+[116](http://www.cluetrain.com/newclues/#116). If we have focused on the role of the People of La Rete  — you and us — in Internet's fall from grace, that's because we still have the faith we came in with.
 
 
 [117](http://www.cluetrain.com/newclues/#117). We, the People of La Rete, cannot fathom how much we can do together because we are far from finished inventing how to be together.
 
 
-[118](http://www.cluetrain.com/newclues/#118). The Internet has liberated an ancient force — the gravity drawing us together.
+[118](http://www.cluetrain.com/newclues/#118). Internet has liberated an ancient force — the gravity drawing us together.
 
 
 [119](http://www.cluetrain.com/newclues/#119). The gravity of connection is love.
