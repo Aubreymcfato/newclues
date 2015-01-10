@@ -86,50 +86,48 @@ La rete non è un medium. Così come una conversazione non è un medium.
 [25](http://www.cluetrain.com/newclues/#25). Nel 1991, [Tim Berners-Lee](http://en.wikipedia.org/wiki/Tim_Berners-Lee) usò la Rete per creare un dono che regalò liberamente a tutti noi: il World Wide Web. Grazie, Tim.
 
 
-[26](http://www.cluetrain.com/newclues/#26). Tim created the Web by providing protocols (there's that word again!) that say how to write a page that can link to any other page without needing anyone's permission.
+[26](http://www.cluetrain.com/newclues/#26). Tim ha creato il Web attraverso dei protocolli (ecco di nuovo quella parola!) che definiscono come si scrive una pagina che linka un'altra pagina senza chiedere il permesso a nessuno.
 
 
-[27](http://www.cluetrain.com/newclues/#27). Boom. Within ten years we had billions of pages on the Web — a combined effort on the order of a World War, and yet so benign that the biggest complaint was the \<blink\> tag.
+[27](http://www.cluetrain.com/newclues/#27). Boom. In dieci anni abbiamo avuto dieci milioni di pagine sul Web —  uno sforzo combinato pari a quello di una Guerra Mondiale, e d'altra parte così benigno che il più grande reclamo è stato la <code><blink\></code> tag.
 
 
-[28](http://www.cluetrain.com/newclues/#28). The Web is an impossibly large, semi-persistent realm of items discoverable in their dense inter-connections.
+[28](http://www.cluetrain.com/newclues/#28). Il Web è un semieterno, gigantesco regno di oggetti esplorabile nelle loro dense connessioni.
+
+[29](http://www.cluetrain.com/newclues/#29). Se suona familiare, è perchè anche il mondo è così.
 
 
-[29](http://www.cluetrain.com/newclues/#29). That sounds familiar. Oh, yeah, that's what the world is.
+[30](http://www.cluetrain.com/newclues/#30). Diversamente dal mondo reale, ogni cosa e ogni connessione sul Web è stata creata da qualcuno di noi esprimendo un interesse e un'opinione (assumption) su come quei [piccoli pezzi](http://www.smallpieces.com/) vanno insieme.
 
 
-[30](http://www.cluetrain.com/newclues/#30). Unlike the real world, every thing and every connection on the Web was created by some one of us expressing an interest and an assumption about how those [small pieces](http://www.smallpieces.com/) go together.
+[31](http://www.cluetrain.com/newclues/#31). Ogni link da parte di una persona che ha qualcosa da dire è un atto di generosità e altruismo, che chiede ai lettori di abbandonare la pagina per guardare come appare il mondo agli occhi di qualcun altro.
 
 
-[31](http://www.cluetrain.com/newclues/#31). Every link by a person with something to say is an act of generosity and selflessness, bidding our readers leave our page to see how the world looks to someone else.
-Ogni link da parte di una persona che ha qualcosa da dire è un atto di generosità e altruismo, che chiede ai lettori di abbandonare la pagina per guardare come appare il mondo agli occhi di qualcun altro.
-
-
-[32](http://www.cluetrain.com/newclues/#32). The Web remakes the world in our collective, emergent image.
+[32](http://www.cluetrain.com/newclues/#32). Il Web ricrea il mondo in un'immagine — la nostra — emergente e collettiva.
 
 
 #But oh how we have strayed, sisters and brothers...
-##a. How did we let conversation get [weaponized](http://blog.bl00cyb.org/2014/11/akirachix-and-weaponized-social/), anyway?
+##a. Com'è che la conversazione è [diventata un'arma?](http://blog.bl00cyb.org/2014/11/akirachix-and-weaponized-social/), comunque?
 
-[33](http://www.cluetrain.com/newclues/#33). It's important to notice and cherish the talk, the friendship, the thousand acts of sympathy, kindness, and joy we encounter on Internet.
-
-
-[34](http://www.cluetrain.com/newclues/#34). And yet we hear the words "fag" and "nigger" far more on La Rete than off.
+[33](http://www.cluetrain.com/newclues/#33). E' important notare e celebrare la conversazione, l'amicizia, i migliaia di atti di empatia, gentilezze e gioia che incontriamo su Internet.
 
 
-[35](http://www.cluetrain.com/newclues/#35). Demonization of 'them' — people with looks, languages, opinions, memberships and other groupings we don't understand, like, or tolerate — is worse than ever on Internet.
+[34](http://www.cluetrain.com/newclues/#34). E tuttavia sentiamo la parola "finocchio" e "negro" molto pià sulla Rete che fuori.
 
 
-[36](http://www.cluetrain.com/newclues/#36). Women in Saudi Arabia can't drive? Meanwhile, [half of us](https://medium.com/message/online-and-offline-violence-towards-women-4c854eb591a5) can't speak on La Rete without [looking over our shoulders](http://www.theguardian.com/technology/2013/aug/05/twitter-bomb-threats-women).
+[35](http://www.cluetrain.com/newclues/#35). La demonizzazione degli 'altri' — persone con sguardi linguaggi, opinioni, appartenenza a comunità e gruppi che non capiamo, apprezziamo o tolleriamo — è peggiore che mai su Internet.
 
 
-[37](http://www.cluetrain.com/newclues/#37). Hatred is present on La Rete because it's present in the world, but La Rete makes it easier to express and to hear.
+[36](http://www.cluetrain.com/newclues/#36). Le donne in Arabia Saudita non possono guidare? Nel frattempo, [metà di noi](https://medium.com/message/online-and-offline-violence-towards-women-4c854eb591a5) non possono parlare sulla Rete senza [guardarsi alle spalle](http://www.theguardian.com/technology/2013/aug/05/twitter-bomb-threats-women).
 
 
-[38](http://www.cluetrain.com/newclues/#38). The solution: If we had a solution, we wouldn't be bothering you with all these damn clues.
+[37](http://www.cluetrain.com/newclues/#37). L'odio è presente in Rete perchè è presente nel mondo, ma la Rete lo rende più facile da esprimere e da sentire.
 
 
-[39](http://www.cluetrain.com/newclues/#39). We can say this much: Hatred didn't call La Rete into being, but it's holding La Rete — and us — back.
+[38](http://www.cluetrain.com/newclues/#38). La soluzione: Se avessimo una soluzione, non staremmo a rompervi con tutti questi dannati indizi.
+
+
+[39](http://www.cluetrain.com/newclues/#39). Pa possiamo dire questo: L'odio non ha creato la rete, but sta portando la Rete — e noi — indietro.
 
 
 [40](http://www.cluetrain.com/newclues/#40). Let's at least acknowledge that La Rete has values implicit in it. Human values.
