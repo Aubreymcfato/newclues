@@ -145,18 +145,17 @@ La rete non è un medium. Così come una conversazione non è un medium.
 [44](http://www.cluetrain.com/newclues/#44). Ecco cos'è una Rete aperta. Guerre sono state combattute per molto meno.
 
 
-##b. "We agree about everything. I find you *fascinating*!"
+##b. "Siamo d'accordo su tutto. Ti trovo *affascinante*!"
 
-[45](http://www.cluetrain.com/newclues/#45). The world is spread out before us like a buffet, and yet we [stick](http://www.ethanzuckerman.com/blog/rewire-digital-cosmopolitans-in-the-age-of-connection/) with our steak and potatoes, lamb and hummus, fish and rice, or whatever.
-Il mondo si offre davanti a noi come un buffet, eppure continuiamo a mangiare bistecca e patate, agnello e hummus, pesce e riso, o vattelappesca.
+[45](http://www.cluetrain.com/newclues/#45). Il mondo ci si offre davanti come un buffet, tuttavia [mangiamo sempre](http://www.ethanzuckerman.com/blog/rewire-digital-cosmopolitans-in-the-age-of-connection/) la nostra bistecca e patate, agnello e hummus, pesce e riso, pasta e sugo...
 
-[46](http://www.cluetrain.com/newclues/#46). We do this in part because conversation requires a common ground: shared language, interests, norms, understandings. Without those, it's hard or even impossible to have a conversation.
-
-
-[47](http://www.cluetrain.com/newclues/#47). Shared grounds spawn tribes. The Earth's solid ground kept tribes at a distance, enabling them to develop rich differences. Rejoice! Tribes give rise to Us vs. Them and war. Rejoice? Not so much.
+[46](http://www.cluetrain.com/newclues/#46). Facciamo così in parte perchè la conversazione ha bisogno di un terreno comune: linguaggi, interessi, norme, accordi/understandings condivisi. Senza di questi, è difficile se non impossibile avere una conversatione.
 
 
-[48](http://www.cluetrain.com/newclues/#48). On Internet, the distance between tribes starts at zero.
+[47](http://www.cluetrain.com/newclues/#47). Shared grounds spawn tribes. La solida terra del Mondo tiene distanti le tribù, permettendo loro di sviluppasi in incredibili diversità. Risorgete! Le tribù hanno dato vita al Noi contro Loro e alla guerra. Rejoice? Not so much.
+
+
+[48](http://www.cluetrain.com/newclues/#48). Su Internet, la distanza tra le tribù parte da zero.
 
 
 [49](http://www.cluetrain.com/newclues/#49). Apparently knowing how to find one another interesting is not as easy as it looks.
