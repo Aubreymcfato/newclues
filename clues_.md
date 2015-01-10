@@ -183,13 +183,13 @@ La rete non è un medium. Così come una conversazione non è un medium.
 [56](http://www.cluetrain.com/newclues/#56). Sei il benvenuto nel partecipare alla nostra conversazione, ma solo se ci dici per chi lavori, e se tu puoi parlare per te stesso ed essendo te stesso.
 
 
-[57](http://www.cluetrain.com/newclues/#57). Every time you call us "consumers" we feel like cows looking up the word "meat."
+[57](http://www.cluetrain.com/newclues/#57). Tutte le volte che ci chiami "consumatori", ci sentiamo come mucche che scoprono il significato della parola "carne".
 
 
-[58](http://www.cluetrain.com/newclues/#58). Quit fracking our lives to extract data that's none of your business and that your machines misinterpret.
+[58](http://www.cluetrain.com/newclues/#58). Smettila di trivellare le nostre vite per estrarre dati che letteralmente non sono affari tuoi e che le tue macchine male interpretano.
 
 
-[59](http://www.cluetrain.com/newclues/#59). Don't worry: we'll tell you when we're in the market for something. In our own way. Not yours. Trust us: [this will be good for you](http://intentioneconomy.net/).
+[59](http://www.cluetrain.com/newclues/#59). Non ti preoccupare: ti diremo noi quando saremo sul mercato per qualcosa. A modo nostro. Non tuo. Fidati: [sarà un cosa bella, per te](http://intentioneconomy.net/).
 
 
 [60](http://www.cluetrain.com/newclues/#60). Ads that sound human but come from your marketing department's irritable bowels, stain the fabric of the Web.
