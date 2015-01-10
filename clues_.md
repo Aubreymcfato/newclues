@@ -1,45 +1,46 @@
 #Once were we young in the Garden... 
-##a. The Internet is us, connected.
+##a. Internet siamo noi, connessi.
 
-[1](http://www.cluetrain.com/newclues/#1). The Internet is not made of copper wire, glass fiber, radio waves, or even tubes.
-
-
-[2](http://www.cluetrain.com/newclues/#2). The devices we use to connect to the Internet are not the Internet.
+[1](http://www.cluetrain.com/newclues/#1). Internet non è fatto di cavi di rame, di fibra ottico, onde radio, e neanche i tubi.
 
 
-[3](http://www.cluetrain.com/newclues/#3). Verizon, Comcast, AT&T, Deutsche Telekom, and 中国电信 do not own the Internet. Facebook, Google, and Amazon are not the Net's monarchs, nor yet are their minions or algorithms. Not the governments of the Earth nor their Trade Associations have the [consent of the networked](http://consentofthenetworked.com/) to bestride the Net as sovereigns.
+[2](http://www.cluetrain.com/newclues/#2). I devices che usiamo per connetterci a Internet non sono Internet.
 
 
-[4](http://www.cluetrain.com/newclues/#4). We hold the Internet in common and as unowned.
+[3](http://www.cluetrain.com/newclues/#3). Verizon, Comcast, AT&T, Deutsche Telekom, Telecom Italia e 中国电信 non possiedono Internet. Facebook, Google, e Amazon non sono i monarchi della Rete, e neanche lo sono i loro algoritmi. I governi della terra e le loro Associazioni (Trade Associations) hanno [il consenso dei connessi](http://consentofthenetworked.com/) di cavalcare la Rete come sovrani.
 
 
-[5](http://www.cluetrain.com/newclues/#5). From us and from what we have built on it does the Internet derive all its value.
+[4](http://www.cluetrain.com/newclues/#4). Noi abbiamo Internet in comune, e non lo possediamo.
 
 
-[6](http://www.cluetrain.com/newclues/#6). The Net is of us, by us, and for us.
+[5](http://www.cluetrain.com/newclues/#5). Da noi e da quello che abbiamo costruito su di esso deriva tutto il valore di Internet.
 
 
-[7](http://www.cluetrain.com/newclues/#7). The Internet is ours.
+[6](http://www.cluetrain.com/newclues/#6). La Rete è da noi, attraverso di noi, per noi.
 
 
-##b. The Internet is nothing and has no purpose.
-
-[8](http://www.cluetrain.com/newclues/#8). The Internet is not a thing any more than gravity is a thing. Both pull us together.
+[7](http://www.cluetrain.com/newclues/#7). Internet è nostro.
 
 
-[9](http://www.cluetrain.com/newclues/#9). The Internet is no-thing at all. [At its base](http://www.worldofends.com/) the Internet is a set of agreements, which the geeky among us (long may their names be hallowed) call "protocols," but which we might, in the temper of the day, call "commandments."
+##b. Internet non è niente, e non ha scopo.
+
+[8](http://www.cluetrain.com/newclues/#8). Internet non è qualcosa non più che la gravità sia qualcosa. Entrambi ci avvicinano gli uni agli altri.
 
 
-[10](http://www.cluetrain.com/newclues/#10). The first among these is: Thy network shall move all packets closer to their destinations without favor or delay based on origin, source, content, or intent.
+[9](http://www.cluetrain.com/newclues/#9). Internet non è qualcosa. [La sua fondazione](http://www.worldofends.com/) Internet è un insieme di accordi, che i più nerd fra noi (long may their names be hallowed) chiamano "protocolli," ma che noi potremmo, in the temper of the day, chiamare "comandamenti."
 
 
-[11](http://www.cluetrain.com/newclues/#11). Thus does this First Commandment lay open the Internet to every idea, application, business, quest, vice, and whatever.
+[10](http://www.cluetrain.com/newclues/#10). Il primo è: La tua rete muoverà i pacchetti a destinazione senza favore o ritardo basato sull'origine, la sorgente, il contenuto, l'intenzione.
+
+@xLeitix I agree with you, of course, and I really hope that everyone who wants access of an article never has to pay that amount of money for a PDF. But I'm not sure that that *never* happens. We need to work in order to make a new, better system, in which we'd never has this problem again. 
+
+[11](http://www.cluetrain.com/newclues/#11). Quindi questo Primo Comandamento apre Internet a ogni idea, business, avventura, vizio e qualsiasi cosa.
 
 
-[12](http://www.cluetrain.com/newclues/#12). There has not been a tool with such a general purpose since language.
+[12](http://www.cluetrain.com/newclues/#12). Il web è lo strumento più versatile da quando è stato inventato il linguaggio.
 
 
-[13](http://www.cluetrain.com/newclues/#13). This means the Internet is not for anything in particular. Not for social networking, not for documents, not for advertising, not for business, not for education, not for porn, not for anything. It is specifically designed for everything.
+[13](http://www.cluetrain.com/newclues/#13). Questo significa che Internet non è fatto per niente in particolare. Non è fatto per i social network, nè per i documenti, nè per la pubblicità, nè per il business, nè per l'educazione, per per il porno, nè per nulla. E' fatto specificamente per fare tutto.
 
 
 [14](http://www.cluetrain.com/newclues/#14). [Optimizing](http://books.google.com/books?id=9lTtWQlLkwwC&pg=PA56&lpg=PA56&dq=optimizing+de-optimizing+david+reed&source=bl&ots=_mqGSLoqSV&sig=TWO4uUTWkzGPDBGmwyS0uqBz0NA&hl=en&sa=X&ei=Nm5lVN-hJtbdsASnzoKQAQ&ved=0CCAQ6AEwAA#v=onepage&q=optimizing%20de-optimizing%20david%20reed&f=false) the Internet for one purpose de-optimizes it for all others.
@@ -48,32 +49,37 @@
 [15](http://www.cluetrain.com/newclues/#15). The Internet like gravity is indiscriminate in its attraction. It pulls us all together, the virtuous and the wicked alike.
 
 
-##c. The Net is not content.
+##c. La Rete is not content.
 
 [16](http://www.cluetrain.com/newclues/#16). There is great content on the Internet. But holy mother of cheeses, the Internet is not made out of content.
 
 
 [17](http://www.cluetrain.com/newclues/#17). A teenager's first poem, the blissful release of a long-kept secret, a fine sketch drawn by a palsied hand, a blog post in a regime that hates the sound of its people's voices — none of these people sat down to write content.
+La prima poesia di un adolescente, la felice rivelazione di un segreto custodito a lungo, un bel disegno buttato giù da una mano paralitica, il post di un blog sotto un regime che odia il suono delle voci del suo popolo – nessuna di queste persone si è seduta a scrivere un contenuto.
 
 
 [18](http://www.cluetrain.com/newclues/#18). Did we use the word "content" without quotes? We feel so dirty.
 
 
-##d. The Net is not a medium.
+##d. La Rete is not a medium.
 
-[19](http://www.cluetrain.com/newclues/#19). The Net is not a medium any more than a conversation is a medium.
+[19](http://www.cluetrain.com/newclues/#19). La Rete is not a medium any more than a conversation is a medium.
+La rete non è un medium. Così come una conversazione non è un medium.
 
 
-[20](http://www.cluetrain.com/newclues/#20). On the Net, we are the medium. We are the ones who move messages. We do so every time we post or retweet, send a link in an email, or post it on a social network.
+[20](http://www.cluetrain.com/newclues/#20). On La Rete, we are the medium. We are the ones who move messages. We do so every time we post or retweet, send a link in an email, or post it on a social network.
+Sulla rete, il medium siamo noi. Noi che muoviamo i messaggi. Lo facciamo ogni volta che pubblichiamo un post, ritwittiamo, mandiamo un link con un’email, o lo postiamo su un social network.
 
 
 [21](http://www.cluetrain.com/newclues/#21). Unlike a medium, you and I leave our fingerprints, and sometimes bite marks, on the messages we pass. We tell people why we're sending it. We argue with it. We add a joke. We chop off the part we don't like. We make these messages our own.
+Contrariamente a un medium, io e te lasciamo le nostre impronte digitali, qualche volta il segno di un morso, sui messaggi che passiamo. Diciamo alle persone perché passiamo quel messaggio. Lo discutiamo. Vi aggiungiamo una battuta. Togliamo il pezzo che non ci piace. Così quei messaggi diventano i nostri.
 
 
-[22](http://www.cluetrain.com/newclues/#22). Every time we move a message through the Net, it carries a little bit of ourselves with it.
+[22](http://www.cluetrain.com/newclues/#22). Every time we move a message through La Rete, it carries a little bit of ourselves with it.
 
 
 [23](http://www.cluetrain.com/newclues/#23). We only move a message through this "medium" if it matters to us in one of the infinite ways that humans care about something.
+Spostiamo un messaggio lungo questo “medium” solo se per noi conta in uno degli infiniti modi in cui qualcosa conta per un essere umano.
 
 
 [24](http://www.cluetrain.com/newclues/#24). Caring — mattering — is the motive force of the Internet.
@@ -81,7 +87,7 @@
 
 ##e The Web is a Wide World.
 
-[25](http://www.cluetrain.com/newclues/#25). In 1991, [Tim Berners-Lee](http://en.wikipedia.org/wiki/Tim_Berners-Lee) used the Net to create a gift he gave freely to us all: the World Wide Web. Thank you.
+[25](http://www.cluetrain.com/newclues/#25). In 1991, [Tim Berners-Lee](http://en.wikipedia.org/wiki/Tim_Berners-Lee) used La Rete to create a gift he gave freely to us all: the World Wide Web. Thank you.
 
 
 [26](http://www.cluetrain.com/newclues/#26). Tim created the Web by providing protocols (there's that word again!) that say how to write a page that can link to any other page without needing anyone's permission.
@@ -100,6 +106,7 @@
 
 
 [31](http://www.cluetrain.com/newclues/#31). Every link by a person with something to say is an act of generosity and selflessness, bidding our readers leave our page to see how the world looks to someone else.
+Ogni link da parte di una persona che ha qualcosa da dire è un atto di generosità e altruismo, che chiede ai lettori di abbandonare la pagina per guardare come appare il mondo agli occhi di qualcun altro.
 
 
 [32](http://www.cluetrain.com/newclues/#32). The Web remakes the world in our collective, emergent image.
@@ -111,31 +118,32 @@
 [33](http://www.cluetrain.com/newclues/#33). It's important to notice and cherish the talk, the friendship, the thousand acts of sympathy, kindness, and joy we encounter on the Internet.
 
 
-[34](http://www.cluetrain.com/newclues/#34). And yet we hear the words "fag" and "nigger" far more on the Net than off.
+[34](http://www.cluetrain.com/newclues/#34). And yet we hear the words "fag" and "nigger" far more on La Rete than off.
 
 
 [35](http://www.cluetrain.com/newclues/#35). Demonization of 'them' — people with looks, languages, opinions, memberships and other groupings we don't understand, like, or tolerate — is worse than ever on the Internet.
 
 
-[36](http://www.cluetrain.com/newclues/#36). Women in Saudi Arabia can't drive? Meanwhile, [half of us](https://medium.com/message/online-and-offline-violence-towards-women-4c854eb591a5) can't speak on the Net without [looking over our shoulders](http://www.theguardian.com/technology/2013/aug/05/twitter-bomb-threats-women).
+[36](http://www.cluetrain.com/newclues/#36). Women in Saudi Arabia can't drive? Meanwhile, [half of us](https://medium.com/message/online-and-offline-violence-towards-women-4c854eb591a5) can't speak on La Rete without [looking over our shoulders](http://www.theguardian.com/technology/2013/aug/05/twitter-bomb-threats-women).
 
 
-[37](http://www.cluetrain.com/newclues/#37). Hatred is present on the Net because it's present in the world, but the Net makes it easier to express and to hear.
+[37](http://www.cluetrain.com/newclues/#37). Hatred is present on La Rete because it's present in the world, but La Rete makes it easier to express and to hear.
 
 
 [38](http://www.cluetrain.com/newclues/#38). The solution: If we had a solution, we wouldn't be bothering you with all these damn clues.
 
 
-[39](http://www.cluetrain.com/newclues/#39). We can say this much: Hatred didn't call the Net into being, but it's holding the Net — and us — back.
+[39](http://www.cluetrain.com/newclues/#39). We can say this much: Hatred didn't call La Rete into being, but it's holding La Rete — and us — back.
 
 
-[40](http://www.cluetrain.com/newclues/#40). Let's at least acknowledge that the Net has values implicit in it. Human values.
+[40](http://www.cluetrain.com/newclues/#40). Let's at least acknowledge that La Rete has values implicit in it. Human values.
+Almeno riconosciamo che la Rete ha i suoi valori impliciti. Valori umani.
 
 
-[41](http://www.cluetrain.com/newclues/#41). Viewed coldly the Net is just technology. But it's populated by creatures who are warm with what they care about: their lives, their friends, the world we share.
+[41](http://www.cluetrain.com/newclues/#41). Viewed coldly La Rete is just technology. But it's populated by creatures who are warm with what they care about: their lives, their friends, the world we share.
 
 
-[42](http://www.cluetrain.com/newclues/#42). The Net offers us a common place where we can be who we are, with others who delight in our differences.
+[42](http://www.cluetrain.com/newclues/#42). La Rete offers us a common place where we can be who we are, with others who delight in our differences.
 
 
 [43](http://www.cluetrain.com/newclues/#43). No one owns that place. Everybody can use it. Anyone can improve it.
@@ -147,7 +155,7 @@
 ##b. "We agree about everything. I find you *fascinating*!"
 
 [45](http://www.cluetrain.com/newclues/#45). The world is spread out before us like a buffet, and yet we [stick](http://www.ethanzuckerman.com/blog/rewire-digital-cosmopolitans-in-the-age-of-connection/) with our steak and potatoes, lamb and hummus, fish and rice, or whatever.
-
+Il mondo si offre davanti a noi come un buffet, eppure continuiamo a mangiare bistecca e patate, agnello e hummus, pesce e riso, o vattelappesca.
 
 [46](http://www.cluetrain.com/newclues/#46). We do this in part because conversation requires a common ground: shared language, interests, norms, understandings. Without those, it's hard or even impossible to have a conversation.
 
@@ -164,7 +172,7 @@
 [50](http://www.cluetrain.com/newclues/#50). That's a challenge we can meet by being open, sympathetic, and patient. We can do it, team! We're \#1! We're \#1!
 
 
-[51](http://www.cluetrain.com/newclues/#51). Being welcoming: There's a value the Net needs to learn from the best of our real world cultures.
+[51](http://www.cluetrain.com/newclues/#51). Being welcoming: There's a value La Rete needs to learn from the best of our real world cultures.
 
 
 ##c. Marketing still makes it harder to talk.
@@ -214,10 +222,10 @@
 [66](http://www.cluetrain.com/newclues/#66). And, by the way, how about calling "native ads" by any of their real names: "product placement," "advertorial," or "fake fuckinggosh darn news"?
 
 
-[67](http://www.cluetrain.com/newclues/#67). Advertisers got along without being creepy for generations. They can get along without being creepy on the Net, too.
+[67](http://www.cluetrain.com/newclues/#67). Advertisers got along without being creepy for generations. They can get along without being creepy on La Rete, too.
 
 
-##d. The Gitmo of the Net.
+##d. The Gitmo of La Rete.
 
 [68](http://www.cluetrain.com/newclues/#68). We all love our shiny apps, even when they're sealed as tight as a Moon base. But put all the closed apps in the world together and you have a pile of apps.
 
@@ -251,7 +259,7 @@
 [77](http://www.cluetrain.com/newclues/#77). [Non-neutral applications](https://medium.com/message/net-neutrality-is-sooo-much-more-than-access-to-the-tubes-2344b1e9f220) built on top of the neutral Net are becoming as inescapable as the pull of a black hole.
 
 
-[78](http://www.cluetrain.com/newclues/#78). If Facebook is your experience of the Net, then you've strapped on goggles from a company with a fiduciary responsibility to keep you from ever taking the goggles off.
+[78](http://www.cluetrain.com/newclues/#78). If Facebook is your experience of La Rete, then you've strapped on goggles from a company with a fiduciary responsibility to keep you from ever taking the goggles off.
 
 
 [79](http://www.cluetrain.com/newclues/#79). Google, Amazon, Facebook, Apple are all in the goggles business.  The biggest truth their goggles obscure: These companies want to hold us the way black holes hold light.
@@ -310,11 +318,11 @@
 [94](http://www.cluetrain.com/newclues/#94). The Internet is [astounding](http://www.reddit.com/r/internetisbeautiful). The Web is awesome. You are beautiful. Connect us all and we are more crazily amazing than Jennifer Lawrence. These are simple facts.
 
 
-[95](http://www.cluetrain.com/newclues/#95). So let's not minimize what the Net has done in the past twenty years:
+[95](http://www.cluetrain.com/newclues/#95). So let's not minimize what La Rete has done in the past twenty years:
 
 
 [96](http://www.cluetrain.com/newclues/#96). There's so much more music in the world.
-
+C’è così tanta più musica nel mondo.
 
 [97](http://www.cluetrain.com/newclues/#97). We now make most of our culture for ourselves, with occasional forays to a movie theater for something blowy-uppy and a \$9 nickel-bag of popcorn.
 
@@ -377,10 +385,10 @@
 
 ##c. Being together: the cause of and solution to every [problem](http://en.wikipedia.org/wiki/Homer_vs._the_Eighteenth_Amendment).
 
-[116](http://www.cluetrain.com/newclues/#116). If we have focused on the role of the People of the Net  — you and us — in the Internet's fall from grace, that's because we still have the faith we came in with.
+[116](http://www.cluetrain.com/newclues/#116). If we have focused on the role of the People of La Rete  — you and us — in the Internet's fall from grace, that's because we still have the faith we came in with.
 
 
-[117](http://www.cluetrain.com/newclues/#117). We, the People of the Net, cannot fathom how much we can do together because we are far from finished inventing how to be together.
+[117](http://www.cluetrain.com/newclues/#117). We, the People of La Rete, cannot fathom how much we can do together because we are far from finished inventing how to be together.
 
 
 [118](http://www.cluetrain.com/newclues/#118). The Internet has liberated an ancient force — the gravity drawing us together.
@@ -393,5 +401,3 @@
 
 
 [121](http://www.cluetrain.com/newclues/#121). Long may we have our Internet to love.
-
-
