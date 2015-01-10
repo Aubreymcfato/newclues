@@ -130,20 +130,19 @@ La rete non è un medium. Così come una conversazione non è un medium.
 [39](http://www.cluetrain.com/newclues/#39). Pa possiamo dire questo: L'odio non ha creato la rete, but sta portando la Rete — e noi — indietro.
 
 
-[40](http://www.cluetrain.com/newclues/#40). Let's at least acknowledge that La Rete has values implicit in it. Human values.
-Almeno riconosciamo che la Rete ha i suoi valori impliciti. Valori umani.
+[40](http://www.cluetrain.com/newclues/#40). Riconosciamo almeno che la Rete ha i suoi valori impliciti. Valori umani.
 
 
-[41](http://www.cluetrain.com/newclues/#41). Viewed coldly La Rete is just technology. But it's populated by creatures who are warm with what they care about: their lives, their friends, the world we share.
+[41](http://www.cluetrain.com/newclues/#41). Se la guardiamo freddamente, la  Rete è solo tecnologia. Ma è popolata da creature che si scaldano per quello  au cui tengono: le loro vite, i loro amici, il mondo che condividiamo.
 
 
-[42](http://www.cluetrain.com/newclues/#42). La Rete offers us a common place where we can be who we are, with others who delight in our differences.
+[42](http://www.cluetrain.com/newclues/#42). La Rete ci offre un posto comune dove possiamo essere chi siamo, con altri che delight in our differences.
 
 
-[43](http://www.cluetrain.com/newclues/#43). No one owns that place. Everybody can use it. Anyone can improve it.
+[43](http://www.cluetrain.com/newclues/#43). Nessuno possiede quel posto. Tutti possono usarlo. Tutti possono migliorarlo.
 
 
-[44](http://www.cluetrain.com/newclues/#44). That's what an open Internet is. Wars have been fought for less.
+[44](http://www.cluetrain.com/newclues/#44). Ecco cos'è una Rete aperta. Guerre sono state combattute per molto meno.
 
 
 ##b. "We agree about everything. I find you *fascinating*!"
