@@ -32,7 +32,6 @@
 
 [10](http://www.cluetrain.com/newclues/#10). Il primo è: La tua rete muoverà i pacchetti a destinazione senza favore o ritardo basato sull'origine, la sorgente, il contenuto, l'intenzione.
 
-@xLeitix I agree with you, of course, and I really hope that everyone who wants access of an article never has to pay that amount of money for a PDF. But I'm not sure that that *never* happens. We need to work in order to make a new, better system, in which we'd never has this problem again. 
 
 [11](http://www.cluetrain.com/newclues/#11). Quindi questo Primo Comandamento apre Internet a ogni idea, business, avventura, vizio e qualsiasi cosa.
 
