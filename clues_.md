@@ -111,7 +111,7 @@ La rete non è un medium. Così come una conversazione non è un medium.
 #But oh how we have strayed, sisters and brothers...
 ##a. Com'è che la conversazione è [diventata un'arma?](http://blog.bl00cyb.org/2014/11/akirachix-and-weaponized-social/), comunque?
 
-[33](http://www.cluetrain.com/newclues/#33). E' important notare e celebrare la conversazione, l'amicizia, i migliaia di atti di empatia, gentilezze e gioia che incontriamo su Internet.
+[33](http://www.cluetrain.com/newclues/#33). E' importante notare e celebrare la conversazione, l'amicizia, i migliaia di atti di empatia, gentilezze e gioia che incontriamo su Internet.
 
 
 [34](http://www.cluetrain.com/newclues/#34). E tuttavia sentiamo la parola "finocchio" e "negro" molto pià sulla Rete che fuori.
@@ -244,41 +244,41 @@ La rete non è un medium. Così come una conversazione non è un medium.
 [75](http://www.cluetrain.com/newclues/#75). Ahi, un colpo basso!
 
 
-[76](http://www.cluetrain.com/newclues/#76). Hey, "Colpo basso" sarebbe proprio una gran bella nuova app! Ha la scritta "offre acquisti in app" dovunque.
+[76](http://www.cluetrain.com/newclues/#76). Hey, "Colpo basso" sarebbe proprio una gran bella nuova app! C'è scritto "offre acquisti in app" dappertutto.
 
 
-##e. Gravity's great until it sucks us all into a black hole.
+##e. La gravità è una gran cosa, fino a quando non ci risucchia tutti in un buco nero
 
-[77](http://www.cluetrain.com/newclues/#77). [Non-neutral applications](https://medium.com/message/net-neutrality-is-sooo-much-more-than-access-to-the-tubes-2344b1e9f220) built on top of the neutral Net are becoming as inescapable as the pull of a black hole.
-
-
-[78](http://www.cluetrain.com/newclues/#78). If Facebook is your experience of La Rete, then you've strapped on goggles from a company with a fiduciary responsibility to keep you from ever taking the goggles off.
+[77](http://www.cluetrain.com/newclues/#77). Le [applicazioni sponsorizzate ](https://medium.com/message/net-neutrality-is-sooo-much-more-than-access-to-the-tubes-2344b1e9f220) sviluppate sulla Rete libera stanno diventando impossibili da sfuggire quanto l'attrazione di un buco nero.
 
 
-[79](http://www.cluetrain.com/newclues/#79). Google, Amazon, Facebook, Apple are all in the goggles business.  The biggest truth their goggles obscure: These companies want to hold us the way black holes hold light.
+[78](http://www.cluetrain.com/newclues/#78). Se Facebook è la tua esperienza della Rete, allora ti sono stati messi addosso degli occhiali da una azienda che ha concordato con i suoi azionisti di impedirti di toglierteli.
 
 
-[80](http://www.cluetrain.com/newclues/#80). These corporate singularities are dangerous not because they are evil. Many of them in fact engage in quite remarkably civic behavior. They should be applauded for that.
+[79](http://www.cluetrain.com/newclues/#79). Google, Amazon, Facebook e Apple sono tutte nel business degli occhiali.  La principale verità che i loro occhiali celano: queste aziende vogliono tenerci stretti nello stesso modo in cui i buchi neri trattengono la luce.
 
 
-[81](http://www.cluetrain.com/newclues/#81). But they benefit from the gravity of sociality: The "network effect" is that thing where lots of people use something because lots of people use it.
+[80](http://www.cluetrain.com/newclues/#80). Queste singolarità aziendali sono pericolose non perché sono cattive. Molte di loro infatti si impegnano in azioni civiche di grande importanza. Dovrebbero essere apprezzate per questo.
 
 
-[82](http://www.cluetrain.com/newclues/#82). Where there aren't competitive alternatives, we need to be hypervigilant to remind these Titans of the Valley of the webby values that first inspired them.
+[81](http://www.cluetrain.com/newclues/#81). Ma esse traggono beneficio dall'attrazione gravitazionale della socialità: l'"effetto Rete" è quello che si verifica quando molti usano qualcosa perché è usato da molti.
 
 
-[83](http://www.cluetrain.com/newclues/#83). And then we need to honor the sound we make when any of us bravely pulls away from them. It's something between the noise of a rocket leaving the launchpad and the rip of Velcro as you undo a too-tight garment.
+[82](http://www.cluetrain.com/newclues/#82). Dove non ci sono alternative competitive, dobbiamo essere estremamente vigili, per ricordare a questi Giganti della Valley i valori del Web che per primi li hanno ispirati.
 
 
-##f. Privacy in an age of spies.
-
-[84](http://www.cluetrain.com/newclues/#84). Ok, government, you win. You've got our data. Now, what can we do to make sure you use it against Them and not against Us? In fact, can you tell the difference?
+[83](http://www.cluetrain.com/newclues/#83). E poi abbiamo bisogno di onorare il suono che produciamo quando uno di noi si allontana coraggiosamente da loro. Qualcosa tra il frastuono di un razzo in partenza dalla piattaforma di lancio e lo strappo del Velcro quando slacci un vestito troppo stretto.
 
 
-[85](http://www.cluetrain.com/newclues/#85). If we want our government to back off, the deal has to be that if — when — the next attack comes, we can't complain that they should have surveilled us harder.
+##f. La privacy nell'era delle spie.
+
+[84](http://www.cluetrain.com/newclues/#84). Ok, Governi, avete vinto. Avete in mano i nostri dati. Ora, cosa possiamo fare per assicurarci che userete questi dati contro di Loro e non contro di Noi? In realtà, che differenza c'è?
 
 
-[86](http://www.cluetrain.com/newclues/#86). A trade isn't fair trade if we don't know what we're giving up. Do you hear that, Security for Privacy trade-off?
+[85](http://www.cluetrain.com/newclues/#85). Se vogliamo che i nostri governi facciano un passo indietro, dovremmo concordare che se e quando si verifica un nuovo attacco, non possiamo poi lamentarci di non essere stati messi sotto più stretta sorveglianza.
+
+
+[86](http://www.cluetrain.com/newclues/#86). Un commercio non è equo se non siamo consapevoli di ciò a cui stiamo rinunciando. <!--- Ci stai ascoltando,(?) ---> Do you hear that, Security for Privacy trade-off?
 
 
 [87](http://www.cluetrain.com/newclues/#87). With a probability approaching absolute certainty, we are going to be sorry we didn't do more to keep data out of the hands of our governments and corporate overlords.
