@@ -26,10 +26,10 @@
 
 ##b. Internet non è niente, e non ha scopo.
 
-[8](http://www.cluetrain.com/newclues/#8). Internet non è qualcosa non più che la gravità sia qualcosa. Entrambi ci avvicinano gli uni agli altri.
+[8](http://www.cluetrain.com/newclues/#8). Internet non è qualcosa non più di quanto la gravità sia qualcosa. Entrambi ci avvicinano gli uni agli altri.
 
 
-[9](http://www.cluetrain.com/newclues/#9). Internet non è qualcosa. [La sua fondazione](http://www.worldofends.com/) Internet è un insieme di accordi, che i più nerd fra noi (long may their names be hallowed) chiamano "protocolli," ma che noi potremmo, in the temper of the day, chiamare "comandamenti."
+[9](http://www.cluetrain.com/newclues/#9). Internet non è qualcosa. [La sua fondazione](http://www.worldofends.com/) Internet è un insieme di accordi, che i più nerd fra noi (long may their names be hallowed)(i loro nomi siano a lungo benedetti) chiamano "protocolli," ma che noi potremmo, in the temper of the day, nel fervore del momento, chiamare "comandamenti."
 
 
 [10](http://www.cluetrain.com/newclues/#10). Il primo è: La tua rete muoverà i pacchetti a destinazione senza favore o ritardo basato sull'origine, la sorgente, il contenuto, l'intenzione.
@@ -45,7 +45,7 @@
 [13](http://www.cluetrain.com/newclues/#13). Questo significa che Internet non è fatto per niente in particolare. Non è fatto per i social network, nè per i documenti, nè per la pubblicità, nè per il business, nè per l'educazione, per per il porno, nè per nulla. E' fatto specificamente per fare tutto.
 
 
-[14](http://www.cluetrain.com/newclues/#14). [Ottimizzare](http://books.google.com/books?id=9lTtWQlLkwwC&pg=PA56&lpg=PA56&dq=optimizing+de-optimizing+david+reed&source=bl&ots=_mqGSLoqSV&sig=TWO4uUTWkzGPDBGmwyS0uqBz0NA&hl=en&sa=X&ei=Nm5lVN-hJtbdsASnzoKQAQ&ved=0CCAQ6AEwAA#v=onepage&q=optimizing%20de-optimizing%20david%20reed&f=false) Internet per uno scopo lo de-ottimizza per tutti gli altri.
+[14](http://www.cluetrain.com/newclues/#14). Chi vuole [Ottimizzare](http://books.google.com/books?id=9lTtWQlLkwwC&pg=PA56&lpg=PA56&dq=optimizing+de-optimizing+david+reed&source=bl&ots=_mqGSLoqSV&sig=TWO4uUTWkzGPDBGmwyS0uqBz0NA&hl=en&sa=X&ei=Nm5lVN-hJtbdsASnzoKQAQ&ved=0CCAQ6AEwAA#v=onepage&q=optimizing%20de-optimizing%20david%20reed&f=false) Internet per uno scopo lo de-ottimizza per tutti gli altri.
 
 
 [15](http://www.cluetrain.com/newclues/#15). Internet, come la gravità, è indiscriminato nella sua attrazione. Ci mette insieme, i virtuosi e i cattivi/malvagi.
@@ -53,7 +53,7 @@
 
 ##c. La Rete non è contenuti.
 
-[16](http://www.cluetrain.com/newclues/#16). Ci sono incredibili contenuti su Internet. Ma, santa per Osiride e per Api, Internet internet non è fatta di contenuti.
+[16](http://www.cluetrain.com/newclues/#16). Ci sono incredibili contenuti su Internet. Ma, santa per Osiride e per Api, Internet internet non è fatta di contenuti. <-- santa polenta?? -->
 
 
 [17](http://www.cluetrain.com/newclues/#17). La prima poesia di un adolescente, la felice rivelazione di un segreto custodito a lungo, un bel disegno buttato giù da una mano paralitica, il post di un blog sotto un regime che odia il suono delle voci del suo popolo – nessuna di queste persone si è seduta a scrivere un contenuto.
@@ -114,10 +114,10 @@ La rete non è un medium. Così come una conversazione non è un medium.
 [33](http://www.cluetrain.com/newclues/#33). E' importante notare e celebrare la conversazione, l'amicizia, i migliaia di atti di empatia, gentilezze e gioia che incontriamo su Internet.
 
 
-[34](http://www.cluetrain.com/newclues/#34). E tuttavia sentiamo la parola "finocchio" e "negro" molto pià sulla Rete che fuori.
+[34](http://www.cluetrain.com/newclues/#34). E tuttavia sentiamo la parola "frocio" e "negro" molto più sulla Rete che fuori.
 
 
-[35](http://www.cluetrain.com/newclues/#35). La demonizzazione degli 'altri' — persone con sguardi linguaggi, opinioni, appartenenza a comunità e gruppi che non capiamo, apprezziamo o tolleriamo — è peggiore che mai su Internet.
+[35](http://www.cluetrain.com/newclues/#35). La demonizzazione degli 'altri' — persone con aspetto, linguaggi, opinioni, appartenenza a comunità e gruppi che non capiamo, apprezziamo o tolleriamo — è peggiore che mai su Internet.
 
 
 [36](http://www.cluetrain.com/newclues/#36). Le donne in Arabia Saudita non possono guidare? Nel frattempo, [metà di noi](https://medium.com/message/online-and-offline-violence-towards-women-4c854eb591a5) non possono parlare sulla Rete senza [guardarsi alle spalle](http://www.theguardian.com/technology/2013/aug/05/twitter-bomb-threats-women).
@@ -129,7 +129,7 @@ La rete non è un medium. Così come una conversazione non è un medium.
 [38](http://www.cluetrain.com/newclues/#38). La soluzione: Se avessimo una soluzione, non staremmo a rompervi con tutti questi dannati indizi.
 
 
-[39](http://www.cluetrain.com/newclues/#39). Pa possiamo dire questo: L'odio non ha creato la rete, but sta portando la Rete — e noi — indietro.
+[39](http://www.cluetrain.com/newclues/#39). Pa possiamo dire questo: L'odio non ha creato la rete, ma sta portando la Rete — e noi — indietro.
 
 
 [40](http://www.cluetrain.com/newclues/#40). Riconosciamo almeno che la Rete ha i suoi valori impliciti. Valori umani.
@@ -238,7 +238,7 @@ La rete non è un medium. Così come una conversazione non è un medium.
 [73](http://www.cluetrain.com/newclues/#73). Ogni nuova pagina rende il Web più grande. Ogni nuovo [link](http://it.wikipedia.org/wiki/Collegamento_ipertestuale) rende il Web più ricco.
 
 
-[74](http://www.cluetrain.com/newclues/#74). Ogni nuova app ci dà qualcosa da fare in autobus.
+[74](http://www.cluetrain.com/newclues/#74). Ogni nuova app ci dà qualcosa da fare sull'autobus.
 
 
 [75](http://www.cluetrain.com/newclues/#75). Ahi, un colpo basso!
@@ -252,10 +252,10 @@ La rete non è un medium. Così come una conversazione non è un medium.
 [77](http://www.cluetrain.com/newclues/#77). Le [applicazioni sponsorizzate ](https://medium.com/message/net-neutrality-is-sooo-much-more-than-access-to-the-tubes-2344b1e9f220) sviluppate sulla Rete libera stanno diventando impossibili da sfuggire quanto l'attrazione di un buco nero.
 
 
-[78](http://www.cluetrain.com/newclues/#78). Se Facebook è la tua esperienza della Rete, allora ti sono stati messi addosso degli occhiali da una azienda che ha concordato con i suoi azionisti di impedirti di toglierteli.
+[78](http://www.cluetrain.com/newclues/#78). Se Facebook è la tua esperienza della Rete, allora ti sono stati messi addosso degli occhiali (dei paraocchi?) da una azienda che ha concordato con i suoi azionisti di impedirti di toglierteli.
 
 
-[79](http://www.cluetrain.com/newclues/#79). Google, Amazon, Facebook e Apple sono tutte nel business degli occhiali.  La principale verità che i loro occhiali celano: queste aziende vogliono tenerci stretti nello stesso modo in cui i buchi neri trattengono la luce.
+[79](http://www.cluetrain.com/newclues/#79). Google, Amazon, Facebook e Apple sono tutte nel business degli occhiali. (dei paraocchi?) La principale verità che i loro occhiali celano: queste aziende vogliono tenerci stretti nello stesso modo in cui i buchi neri trattengono la luce.
 
 
 [80](http://www.cluetrain.com/newclues/#80). Queste singolarità aziendali sono pericolose non perché sono cattive. Molte di loro infatti si impegnano in azioni civiche di grande importanza. Dovrebbero essere apprezzate per questo.
@@ -281,62 +281,58 @@ La rete non è un medium. Così come una conversazione non è un medium.
 [86](http://www.cluetrain.com/newclues/#86). Un commercio non è equo se non siamo consapevoli di ciò a cui stiamo rinunciando. <!--- Ci stai ascoltando,(?) ---> Do you hear that, Security for Privacy trade-off?
 
 
-[87](http://www.cluetrain.com/newclues/#87). With a probability approaching absolute certainty, we are going to be sorry we didn't do more to keep data out of the hands of our governments and corporate overlords.
+[87](http://www.cluetrain.com/newclues/#87). Con una probabilità prossima alla certezza assoluta, saremo molto dispiaciuti di non avere fatto di più per tenere i dati lontano dalle mani dei governi e delle grandi aziende.
 
 
-##g. Privacy in an age of weasels.
+##g. La privacy nell'era delle donnole. (weasels).
 
 
-[88](http://www.cluetrain.com/newclues/#88). Personal privacy is fine for those who want it. And we all draw the line somewhere.
+[88](http://www.cluetrain.com/newclues/#88). La privacy personale va bene per coloro che la desiderano. E tutti noi tracciamo una linea da qualche parte. 
 
 
-[89](http://www.cluetrain.com/newclues/#89). Q: How long do you think it took for pre-Web culture to figure out where to draw the lines? A: How old is culture?
+[89](http://www.cluetrain.com/newclues/#89). Domanda: quanto tempo pensate ci sia voluto, per la cultura pre-web, per capire dove tracciare questa linea? Risposta: da quanto tempo esiste la cultura? 
 
 
-[90](http://www.cluetrain.com/newclues/#90). **The Web is barely out of its teens.**We are at the beginning, not the end, of the privacy story.
+[90](http://www.cluetrain.com/newclues/#90). Il web è appena uscito dall'adolescenza. Ci troviamo all'inizio, non alla fine, della storia della privacy.
 
 
-[91](http://www.cluetrain.com/newclues/#91). We can only figure out what it means to be private once we  figure out what it means to be social. And we've barely begun to re-invent that.
+[91](http://www.cluetrain.com/newclues/#91). Possiamo capire cosa significa il privato solo una volta capito cosa significa il sociale. E abbiamo appena incominciato a re-inventare questo concetto.
 
+[92](http://www.cluetrain.com/newclues/#92). Gli incentivi economici e politici a calare i pantaloni e guardare sotto le gonne sono così forti che faremmo bene a investire in biancheria di alluminio.
 
-[92](http://www.cluetrain.com/newclues/#92). The economic and political incentives to de-pants and up-skirt  us are so strong that we'd be wise to invest in tinfoil underwear.
+[93](http://www.cluetrain.com/newclues/#93). Gli hacker ci hanno messi in questa situazione, e toccherà agli hacker tirarcene fuori.
 
-
-[93](http://www.cluetrain.com/newclues/#93). Hackers got us into this and hackers will have to get us out.
-
-
-#To build and to plant
+# Costruire e seminare
 ##a. Kumbiyah sounds surprisingly good in an echo chamber.
 
-[94](http://www.cluetrain.com/newclues/#94). Internet is [astounding](http://www.reddit.com/r/internetisbeautiful). The Web is awesome. You are beautiful. Connect us all and we are more crazily amazing than Jennifer Lawrence. These are simple facts.
+[94](http://www.cluetrain.com/newclues/#94). Internet è  [sbalorditivo](http://www.reddit.com/r/internetisbeautiful). Il Web è fantastico. Voi siete bellissimi. Connetteteci tutti insieme e siamo più pazzamente meravigliosi di Jennifer Lawrence. Questi sono puri fatti.
 
 
-[95](http://www.cluetrain.com/newclues/#95). So let's not minimize what La Rete has done in the past twenty years:
+[95](http://www.cluetrain.com/newclues/#95). Perciò non minimizziamo quello che la Rete ha fatto negli ultimi vent'anni: 
 
 
 [96](http://www.cluetrain.com/newclues/#96). There's so much more music in the world.
 C’è così tanta più musica nel mondo.
 
-[97](http://www.cluetrain.com/newclues/#97). We now make most of our culture for ourselves, with occasional forays to a movie theater for something blowy-uppy and a \$9 nickel-bag of popcorn.
+[97](http://www.cluetrain.com/newclues/#97). Adesso gran parte della nostra cultura ce la facciamo da soli, con giusto qualche occasionale incursione in un cinema per vedere un po' di esplosioni e comprare un cesto di popcorn.
 
 
-[98](http://www.cluetrain.com/newclues/#98). Politicians now have to explain their positions far beyond the one-page "position papers" they used to [mimeograph](http://en.wikipedia.org/wiki/Mimeograph "This is a scratch 'n' sniff word. Go ahead! Mmmm...").
+[98](http://www.cluetrain.com/newclues/#98). Adesso i politici devono rendere conto delle loro posizioni con molto di più che le dichiarazioni di una pagina fatte con il [ciclostile](http://en.wikipedia.org/wiki/Mimeograph "Questa è una parola da gratta e vinci. Andate avanti! Mmmmm.... " "This is a scratch 'n' sniff word. Go ahead! Mmmm...").
 
 
-[99](http://www.cluetrain.com/newclues/#99). Anything you don't understand you can find an explanation for. And a discussion about. And an argument over. Is it not clear how awesome that is?
+[99](http://www.cluetrain.com/newclues/#99). Per ogni cosa che non capite potete trovare una spiegazione. E una discussione a riguardo. E un litigio su di essa. Non è evidente quanto tutto ciò sia meraviglioso?
 
 
-[100](http://www.cluetrain.com/newclues/#100). You want to know what to buy? The business that makes an object of desire is now the worst source of information about it. The best source is all of us.
+[100](http://www.cluetrain.com/newclues/#100). Volete sapere cosa comprare? Le aziende che fanno un oggetto del desiderio non sono la migliore fonte d'informazione su di esso. La fonte migliore siamo tutti noi.
 
 
-[101](http://www.cluetrain.com/newclues/#101). You want to listen in on a college-level course about something you're interested in? [Google](http://www.bing.com/search?q=google) your topic. Take your pick. For free.
+[101](http://www.cluetrain.com/newclues/#101). Volete seguire un corso universitario su qualcosa che vi interessa?  [Cercate su Google](http://www.bing.com/search?q=google) il vostro argomento. Fate la vostra scelta. Gratis.<-- questo mi ha fatto scassare dal ridere! -->
 
 
-[102](http://www.cluetrain.com/newclues/#102). Yeah, Internet hasn't solved all the world's problems. That's why the Almighty hath given us asses: that we might get off of them.
+[102](http://www.cluetrain.com/newclues/#102). E' vero, Internet non ha risolto tutti i problemi del mondo. Per questo l'Onnipotente ci ha dato un sedere. Così possiamo muoverlo.
 
 
-[103](http://www.cluetrain.com/newclues/#103). Internet naysayers keep us honest. We just like 'em better when they aren't ingrates.
-
+[103](http://www.cluetrain.com/newclues/#103). Gli oppositori di Internet ci mantengono onesti. Semplicemente li preferiamo quando non sono ingrati.
 
 ##b. A pocket full of homilies.
 
