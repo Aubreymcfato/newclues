@@ -1,7 +1,7 @@
 #Once were we young in the Garden... 
 ##a. Internet siamo noi, connessi.
 
-<!--- Un dubbio sulla traduzione di "you" con "tu" o "voi". Nel primo manifesto, generalmente, "you" viene quasi dovunque tradotto in italiano con "voi", per cui intanto, quando il senso della frase sottintende un rapporto "voi-noi" io traduco con "voi". Che dite? --->
+<!-- Un dubbio sulla traduzione di "you" con "tu" o "voi". Nel primo manifesto, generalmente, "you" viene quasi dovunque tradotto in italiano con "voi", per cui intanto, quando il senso della frase sottintende un rapporto "voi-noi" io traduco con "voi". Che dite? -->
 
 [1](http://www.cluetrain.com/newclues/#1). Internet non è fatto di cavi di rame, di fibre ottiche, onde radio, e neanche di tubi.
 
@@ -211,7 +211,7 @@ La rete non è un medium. Così come una conversazione non è un medium.
 [65](http://www.cluetrain.com/newclues/#65). Quando inserite un "[annuncio nativo](http://it.wikipedia.org/wiki/Native_advertising)," state intaccando non solo la vostra stessa affidabilità, ma l'affidabilità di tutto questo nuovo modo di essere gli uni con gli altri.
 
 
-[66](http://www.cluetrain.com/newclues/#66). E, a proposito, che ne dite di chiamare gli "annunci nativi" con uno qualsiasi dei loro veri nomi: "[product placement](http://it.wikipedia.org/wiki/Product_placement)," <!--- si potrà tradurre? ---> "[articoli pubbliredazionali](http://it.wikipedia.org/wiki/Pubbliredazionale)," o "notizie fottutamente false"?
+[66](http://www.cluetrain.com/newclues/#66). E, a proposito, che ne dite di chiamare gli "annunci nativi" con uno qualsiasi dei loro veri nomi: "[product placement](http://it.wikipedia.org/wiki/Product_placement)," <!--- si potrà tradurre? --> "[articoli pubbliredazionali](http://it.wikipedia.org/wiki/Pubbliredazionale)," o "notizie fottutamente false"?
 
 
 [67](http://www.cluetrain.com/newclues/#67). Gli inserzionisti ce l'hanno fatta per generazioni senza essere subdoli. Possono cavarsela senza essere subdoli anche nella Rete.
@@ -219,7 +219,7 @@ La rete non è un medium. Così come una conversazione non è un medium.
 
 ##d. La Guantanamo della Rete.
 
-[68](http://www.cluetrain.com/newclues/#68). Tutti noi amiano le nostre brillanti app, perfino quando sono inaccessibili <!--- sigillate? ---> quanto una base lunare. Ma metti insieme tutte le app inaccessibili del mondo e avrai solo un cumulo di app.
+[68](http://www.cluetrain.com/newclues/#68). Tutti noi amiano le nostre brillanti app, perfino quando sono inaccessibili <!--- sigillate? --> quanto una base lunare. Ma metti insieme tutte le app inaccessibili del mondo e avrai solo un cumulo di app.
 
 
 [69](http://www.cluetrain.com/newclues/#69). Metti insieme tutte le pagine web a avrai un nuovo mondo.
@@ -252,18 +252,21 @@ La rete non è un medium. Così come una conversazione non è un medium.
 
 
 [78](http://www.cluetrain.com/newclues/#78). If Facebook is your experience of La Rete, then you've strapped on goggles from a company with a fiduciary responsibility to keep you from ever taking the goggles off.
+Se Face­book è la tua espe­rienza della Rete, allora indossi gli occhiali di un’azienda con una respon­sa­bi­lità fidu­cia­ria per impe­dirti di toglierti gli occhiali.
 
 
 [79](http://www.cluetrain.com/newclues/#79). Google, Amazon, Facebook, Apple are all in the goggles business.  The biggest truth their goggles obscure: These companies want to hold us the way black holes hold light.
+79. Goo­gle, Ama­zon, Face­book, Apple sono tutti nel set­tore occhiali. La verità più grande è che i loro occhiali oscu­rano: Que­ste aziende vogliono tenere la via come buchi neri ten­gono luce.
 
 
 [80](http://www.cluetrain.com/newclues/#80). These corporate singularities are dangerous not because they are evil. Many of them in fact engage in quite remarkably civic behavior. They should be applauded for that.
-
+80. Que­ste sin­go­la­rità azien­dali sono peri­co­lose non per­ché sono il male. Molti di loro, infatti, si impe­gnano con note­vole com­por­ta­mento civico. Dovreb­bero essere applau­dito per que­sto.
 
 [81](http://www.cluetrain.com/newclues/#81). But they benefit from the gravity of sociality: The "network effect" is that thing where lots of people use something because lots of people use it.
-
+81. Ma essi bene­fi­ciano della forza gra­vi­ta­zio­nale della socia­lità: L ’”effetto rete” è quella cosa dove un sacco di per­sone usa qual­cosa per­ché un sacco di gente lo usa.
 
 [82](http://www.cluetrain.com/newclues/#82). Where there aren't competitive alternatives, we need to be hypervigilant to remind these Titans of the Valley of the webby values that first inspired them.
+82. Dove non ci sono alter­na­tive com­pe­ti­tive, dob­biamo essere iper­vi­gi­lanti ricor­dando que­sti Titani i valori della Rete che prima li hanno ispirati.
 
 
 [83](http://www.cluetrain.com/newclues/#83). And then we need to honor the sound we make when any of us bravely pulls away from them. It's something between the noise of a rocket leaving the launchpad and the rip of Velcro as you undo a too-tight garment.
@@ -314,7 +317,7 @@ La rete non è un medium. Così come una conversazione non è un medium.
 
 
 [96](http://www.cluetrain.com/newclues/#96). There's so much more music in the world.
-C’è così tanta più musica nel mondo.
+C’è così tanta musica in più nel mondo.
 
 [97](http://www.cluetrain.com/newclues/#97). We now make most of our culture for ourselves, with occasional forays to a movie theater for something blowy-uppy and a \$9 nickel-bag of popcorn.
 
@@ -383,13 +386,14 @@ C’è così tanta più musica nel mondo.
 [117](http://www.cluetrain.com/newclues/#117). We, the People of La Rete, cannot fathom how much we can do together because we are far from finished inventing how to be together.
 
 
-[118](http://www.cluetrain.com/newclues/#118). Internet has liberated an ancient force — the gravity drawing us together.
+[118](http://www.cluetrain.com/newclues/#118). Internet ha liberato un'antica Forza — la gravità che ci riporta insieme.
+Inter­net ha libe­rato una forza antica — la forza gra­vi­ta­zio­nale di unirci.
 
 
-[119](http://www.cluetrain.com/newclues/#119). The gravity of connection is love.
+[119](http://www.cluetrain.com/newclues/#119). La gravità delle connessioni è l'amore.
 
 
-[120](http://www.cluetrain.com/newclues/#120). Long live the open Internet.
+[120](http://www.cluetrain.com/newclues/#120). Lunga vita all'Internet aperto.
 
 
-[121](http://www.cluetrain.com/newclues/#121). Long may we have our Internet to love.
+[121](http://www.cluetrain.com/newclues/#121). Che possiamo avere a lungo il nostro Internet da amare.
