@@ -1,10 +1,10 @@
 #Once were we young in the Garden... 
 ##a. Internet siamo noi, connessi.
 
-[1](http://www.cluetrain.com/newclues/#1). Internet non è fatto di cavi di rame, di fibra ottico, onde radio, e neanche i tubi.
+[1](http://www.cluetrain.com/newclues/#1). Internet non è fatto di cavi di rame, di fibre ottiche, onde radio, e neanche di tubi.
 
 
-[2](http://www.cluetrain.com/newclues/#2). I devices che usiamo per connetterci a Internet non sono Internet.
+[2](http://www.cluetrain.com/newclues/#2). I dispositivi che usiamo per connetterci a Internet non sono Internet.
 
 
 [3](http://www.cluetrain.com/newclues/#3). Verizon, Comcast, AT&T, Deutsche Telekom, Telecom Italia e 中国电信 non possiedono Internet. Facebook, Google, e Amazon non sono i monarchi della Rete, e neanche lo sono i loro algoritmi. I governi della terra e le loro Associazioni (Trade Associations) hanno [il consenso dei connessi](http://consentofthenetworked.com/) di cavalcare la Rete come sovrani.
@@ -152,7 +152,7 @@ La rete non è un medium. Così come una conversazione non è un medium.
 [46](http://www.cluetrain.com/newclues/#46). Facciamo così in parte perchè la conversazione ha bisogno di un terreno comune: linguaggi, interessi, norme, accordi/understandings condivisi. Senza di questi, è difficile se non impossibile avere una conversazionee.
 
 
-[47](http://www.cluetrain.com/newclues/#47). Shared grounds spawn tribes. La solida terra del Mondo tiene distanti le tribù, permettendo loro di sviluppasi in incredibili diversità. Risorgete! Le tribù hanno dato vita al Noi contro Loro e alla guerra. Rejoice? Not so much.
+[47](http://www.cluetrain.com/newclues/#47). Terreni condivisi generano tribù. La solida terra del Mondo ha tenuto distanti le tribù, permettendo loro di sviluppare incredibili diversità. Esultate! Le tribù hanno dato vita al Noi contro Loro e alla guerra. Esultate? Mica tanto.
 
 
 [48](http://www.cluetrain.com/newclues/#48). Su Internet, la distanza tra le tribù parte da zero.
@@ -192,19 +192,19 @@ La rete non è un medium. Così come una conversazione non è un medium.
 [59](http://www.cluetrain.com/newclues/#59). Non ti preoccupare: ti diremo noi quando saremo sul mercato per qualcosa. A modo nostro. Non tuo. Fidati: [sarà un cosa bella, per te](http://intentioneconomy.net/).
 
 
-[60](http://www.cluetrain.com/newclues/#60). Ads that sound human but come from your marketing department's irritable bowels, stain the fabric of the Web.
+[60](http://www.cluetrain.com/newclues/#60). Gli annunci pubblicitari che sembrano umani ma provengono dagli intestini irritabili del tuo ufficio marketing, macchiano il tessuto del Web.
 
 
-[61](http://www.cluetrain.com/newclues/#61). When personalizing something is creepy, it's a pretty good indication that you don't understand what it means to be a person.
+[61](http://www.cluetrain.com/newclues/#61). Quando personalizzare qualcosa è raccapricciante, è un chiaro segnale che non capisci cosa significa essere una persona.
 
 
-[62](http://www.cluetrain.com/newclues/#62). Personal is human. Personalized isn't.
+[62](http://www.cluetrain.com/newclues/#62). Personale è umano. Personalizzato non lo è.
 
 
-[63](http://www.cluetrain.com/newclues/#63). The more machines sound human, the more they slide down into the [uncanny valley](https://en.wikipedia.org/wiki/Uncanny_valley) where everything is a [creep](http://www.niemanlab.org/2014/12/the-year-we-get-creeped-out-by-algorithms/) [show](http://www.theatlantic.com/technology/archive/2014/06/data-doppelgangers-and-the-uncanny-valley-of-personalization/372780/).
+[63](http://www.cluetrain.com/newclues/#63). Quanto più le macchine sembrano umane, tanto più scivolano nell'[uncanny valley](https://en.wikipedia.org/wiki/Uncanny_valley) dove ogni cosa è uno [spettacolo](http://www.theatlantic.com/technology/archive/2014/06/data-doppelgangers-and-the-uncanny-valley-of-personalization/372780/) [inquietante](http://www.niemanlab.org/2014/12/the-year-we-get-creeped-out-by-algorithms/) .
 
 
-[64](http://www.cluetrain.com/newclues/#64). Also: Please stop dressing up ads as news in the hope we'll miss the little disclaimer hanging off their underwear.
+[64](http://www.cluetrain.com/newclues/#64). Inoltre: smettete di travestire gli annunci da notizie nella speranza che non ci accorgiamo dell'etichetta appesa alla loro biancheria intima.
 
 
 [65](http://www.cluetrain.com/newclues/#65). When you place a "[native ad](http://en.wikipedia.org/wiki/Native_advertising)," you're eroding not just your own trustworthiness, but the trustworthiness of this entire new way of being with one another.
