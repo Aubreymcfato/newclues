@@ -1,6 +1,8 @@
 #Once were we young in the Garden... 
 ##a. Internet siamo noi, connessi.
 
+<!--- Un dubbio sulla traduzione di "you" con "tu" o "voi". Nel primo manifesto, generalmente, "you" viene quasi dovunque tradotto in italiano con "voi", per cui intanto, quando il senso della frase sottintende un rapporto "voi-noi" io traduco con "voi". Che dite? --->
+
 [1](http://www.cluetrain.com/newclues/#1). Internet non è fatto di cavi di rame, di fibre ottiche, onde radio, e neanche di tubi.
 
 
@@ -204,45 +206,45 @@ La rete non è un medium. Così come una conversazione non è un medium.
 [63](http://www.cluetrain.com/newclues/#63). Quanto più le macchine sembrano umane, tanto più scivolano nell'[uncanny valley](https://en.wikipedia.org/wiki/Uncanny_valley) dove ogni cosa è uno [spettacolo](http://www.theatlantic.com/technology/archive/2014/06/data-doppelgangers-and-the-uncanny-valley-of-personalization/372780/) [inquietante](http://www.niemanlab.org/2014/12/the-year-we-get-creeped-out-by-algorithms/) .
 
 
-[64](http://www.cluetrain.com/newclues/#64). Inoltre: smettete di travestire gli annunci da notizie nella speranza che non ci accorgiamo dell'etichetta appesa alla loro biancheria intima.
+[64](http://www.cluetrain.com/newclues/#64). E poi: smettetela di travestire gli annunci da notizie nella speranza che non ci accorgiamo dell'etichetta appesa alla loro biancheria intima.
 
 
-[65](http://www.cluetrain.com/newclues/#65). When you place a "[native ad](http://en.wikipedia.org/wiki/Native_advertising)," you're eroding not just your own trustworthiness, but the trustworthiness of this entire new way of being with one another.
+[65](http://www.cluetrain.com/newclues/#65). Quando inserite un "[annuncio nativo](http://it.wikipedia.org/wiki/Native_advertising)," state intaccando non solo la vostra stessa affidabilità, ma l'affidabilità di tutto questo nuovo modo di essere gli uni con gli altri.
 
 
-[66](http://www.cluetrain.com/newclues/#66). And, by the way, how about calling "native ads" by any of their real names: "product placement," "advertorial," or "fake fuckinggosh darn news"?
+[66](http://www.cluetrain.com/newclues/#66). E, a proposito, che ne dite di chiamare gli "annunci nativi" con uno qualsiasi dei loro veri nomi: "[product placement](http://it.wikipedia.org/wiki/Product_placement)," <!--- si potrà tradurre? ---> "[articoli pubbliredazionali](http://it.wikipedia.org/wiki/Pubbliredazionale)," o "notizie fottutamente false"?
 
 
-[67](http://www.cluetrain.com/newclues/#67). Advertisers got along without being creepy for generations. They can get along without being creepy on La Rete, too.
+[67](http://www.cluetrain.com/newclues/#67). Gli inserzionisti ce l'hanno fatta per generazioni senza essere subdoli. Possono cavarsela senza essere subdoli anche nella Rete.
 
 
-##d. The Gitmo of La Rete.
+##d. La Guantanamo della Rete.
 
-[68](http://www.cluetrain.com/newclues/#68). We all love our shiny apps, even when they're sealed as tight as a Moon base. But put all the closed apps in the world together and you have a pile of apps.
-
-
-[69](http://www.cluetrain.com/newclues/#69). Put all the Web pages together and you have a new world.
+[68](http://www.cluetrain.com/newclues/#68). Tutti noi amiano le nostre brillanti app, perfino quando sono inaccessibili <!--- sigillate? ---> quanto una base lunare. Ma metti insieme tutte le app inaccessibili del mondo e avrai solo un cumulo di app.
 
 
-[70](http://www.cluetrain.com/newclues/#70). Web pages are about connecting. Apps are about control.
+[69](http://www.cluetrain.com/newclues/#69). Metti insieme tutte le pagine web a avrai un nuovo mondo.
 
 
-[71](http://www.cluetrain.com/newclues/#71). [As we move from the Web](http://dashes.com/anil/2012/12/rebuilding-the-web-we-lost.html) to an [app-based world](https://indiewebcamp.com/Principles), we lose the commons we were building together.
+[70](http://www.cluetrain.com/newclues/#70). Le pagine web sono connessione. Le app sono controllo.
 
 
-[72](http://www.cluetrain.com/newclues/#72). In the Kingdom of Apps, we are users, not makers.
+[71](http://www.cluetrain.com/newclues/#71). [Quando abbandoniamo il Web](http://dashes.com/anil/2012/12/rebuilding-the-web-we-lost.html) per un [mondo fatto di app](https://indiewebcamp.com/Principles), perdiamo i beni comuni che stavamo costruendo insieme.
 
 
-[73](http://www.cluetrain.com/newclues/#73). Every new page makes the Web bigger. Every new link makes the Web richer.
+[72](http://www.cluetrain.com/newclues/#72). Nel Regno delle App, siamo fruitori, non creatori.
 
 
-[74](http://www.cluetrain.com/newclues/#74). Every new app gives us something else to do on the bus.
+[73](http://www.cluetrain.com/newclues/#73). Ogni nuova pagina rende il Web più grande. Ogni nuovo [link](http://it.wikipedia.org/wiki/Collegamento_ipertestuale) rende il Web più ricco.
 
 
-[75](http://www.cluetrain.com/newclues/#75). Ouch, a cheap shot!
+[74](http://www.cluetrain.com/newclues/#74). Ogni nuova app ci dà qualcosa da fare in autobus.
 
 
-[76](http://www.cluetrain.com/newclues/#76). Hey, "CheapShot" would make a great new app! It's got "in-app purchase" written all over it.
+[75](http://www.cluetrain.com/newclues/#75). Ahi, un colpo basso!
+
+
+[76](http://www.cluetrain.com/newclues/#76). Hey, "Colpo basso" sarebbe proprio una gran bella nuova app! Ha la scritta "offre acquisti in app" dovunque.
 
 
 ##e. Gravity's great until it sucks us all into a black hole.
