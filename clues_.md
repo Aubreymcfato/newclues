@@ -10,7 +10,7 @@
 [3](http://www.cluetrain.com/newclues/#3). Verizon, Comcast, AT&T, Deutsche Telekom, Telecom Italia e 中国电信 non possiedono Internet. Facebook, Google, e Amazon non sono i monarchi della Rete, né lo sono i loro servi o i loro algoritmi. Né i governi della terra e nè le loro organizzioni commerciali hanno [il consenso dei connessi](http://consentofthenetworked.com/) di cavalcare la Rete come sovrani.
 
 
-[4](http://www.cluetrain.com/newclues/#4). Noi abbiamo Internet in comune, e non lo possediamo.
+[4](http://www.cluetrain.com/newclues/#4). Noi abbiamo Internet in comune, e non la possediamo.
 
 
 [5](http://www.cluetrain.com/newclues/#5). Da noi e da quello che abbiamo costruito su di esso deriva tutto il valore di Internet.
@@ -19,7 +19,7 @@
 [6](http://www.cluetrain.com/newclues/#6). La Rete è di noi, da noi, per noi.
 
 
-[7](http://www.cluetrain.com/newclues/#7). Internet è nostro.
+[7](http://www.cluetrain.com/newclues/#7). Internet è nostra.
 
 
 ##b. Internet non è niente, e non ha scopo.
@@ -42,7 +42,7 @@
 [13](http://www.cluetrain.com/newclues/#13). Questo significa che Internet non è fatta per niente in particolare. Non è fatta per i social network, né per i documenti, né per la pubblicità, né per il business, né per l'educazione, né per il porno, né per nulla. È progettata specificamente per fare tutto.
 
 
-[14](http://www.cluetrain.com/newclues/#14). Chi vuole [ottimizzare](http://books.google.com/books?id=9lTtWQlLkwwC&pg=PA56&lpg=PA56&dq=optimizing+de-optimizing+david+reed&source=bl&ots=_mqGSLoqSV&sig=TWO4uUTWkzGPDBGmwyS0uqBz0NA&hl=en&sa=X&ei=Nm5lVN-hJtbdsASnzoKQAQ&ved=0CCAQ6AEwAA#v=onepage&q=optimizing%20de-optimizing%20david%20reed&f=false) Internet per uno scopo lo de-ottimizza per tutti gli altri.
+[14](http://www.cluetrain.com/newclues/#14). Chi vuole [ottimizzare](http://books.google.com/books?id=9lTtWQlLkwwC&pg=PA56&lpg=PA56&dq=optimizing+de-optimizing+david+reed&source=bl&ots=_mqGSLoqSV&sig=TWO4uUTWkzGPDBGmwyS0uqBz0NA&hl=en&sa=X&ei=Nm5lVN-hJtbdsASnzoKQAQ&ved=0CCAQ6AEwAA#v=onepage&q=optimizing%20de-optimizing%20david%20reed&f=false) Internet per uno scopo la de-ottimizza per tutti gli altri.
 
 
 [15](http://www.cluetrain.com/newclues/#15). Internet, come la gravità, è indiscriminata nella sua attrazione. Ci mette insieme, [il giusto e l'ingiusto](http://wp-up.s3.amazonaws.com/wittgenstein/2012/06/peanuts_sui_giusti.jpg) allo stesso modo.
@@ -67,10 +67,10 @@
 [20](http://www.cluetrain.com/newclues/#20). Sulla Rete, il medium siamo noi. Noi muoviamo i messaggi. Lo facciamo ogni volta che pubblichiamo un post, ritwittiamo, mandiamo un link con un’email, o lo postiamo su un social network.
 
 
-[21](http://www.cluetrain.com/newclues/#21). Contrariamente a un medium, tu ed io lasciamo le nostre impronte digitali, e qualche volta il segno di un morso, sui messaggi che passiamo. Diciamo alle persone perché passiamo quel messaggio. Lo discutiamo. Vi aggiungiamo una battuta. Tagliamo il pezzo che non ci piace. Così quei messaggi diventano i nostri.
+[21](http://www.cluetrain.com/newclues/#21). Contrariamente a un medium, tu ed io lasciamo le nostre impronte digitali, e talvolta il segno di un morso, sui messaggi che passiamo. Diciamo alle persone perché passiamo quel messaggio. Lo discutiamo. Vi aggiungiamo una battuta. Tagliamo il pezzo che non ci piace. Così quei messaggi diventano i nostri.
 
 
-[22](http://www.cluetrain.com/newclues/#22). Tutte le volte che muoviamo un messaggio attraverso la Rete, porta con sè un piccolo pezzo di noi.
+[22](http://www.cluetrain.com/newclues/#22). Tutte le volte che muoviamo un messaggio attraverso la Rete, esso porta con sè un piccolo pezzo di noi.
 
 
 [23](http://www.cluetrain.com/newclues/#23). Spostiamo un messaggio lungo questo “medium” solo se per noi conta in uno degli infiniti modi in cui gli esseri umani tengono a qualcosa.
@@ -88,7 +88,7 @@
 
 
 [27](http://www.cluetrain.com/newclues/#27). Boom. Nel giro di dieci anni abbiamo avuto miliardi di pagine sul Web —  uno sforzo combinato pari a quello di una Guerra Mondiale, e tuttavia così a fin di bene che il reclamo più grande è stato il tag `<blink\>`.
-
+<-- reclamo o lamentela? -->
 
 [28](http://www.cluetrain.com/newclues/#28). Il Web è un gigantesco, semieterno regno di oggetti esplorabili nelle loro fitte interconnessioni.
 
@@ -126,7 +126,7 @@
 [38](http://www.cluetrain.com/newclues/#38). La soluzione: se avessimo una soluzione, non staremmo a rompervi con tutte queste tesi.
 
 
-[39](http://www.cluetrain.com/newclues/#39). Possiamo però dire questo: L'odio non ha creato la Rete, ma sta portando la Rete — e noi — indietro.
+[39](http://www.cluetrain.com/newclues/#39). Possiamo però dire questo: l'odio non ha creato la Rete, ma sta portando la Rete — e noi — indietro.
 
 
 [40](http://www.cluetrain.com/newclues/#40). Riconosciamo almeno che la Rete ha i suoi valori impliciti. Valori umani.
@@ -205,6 +205,7 @@ Le tribù hanno dato vita al Noi contro Loro e alla guerra. Esultate? Mica tanto
 
 
 [64](http://www.cluetrain.com/newclues/#64). E poi: smettetela di travestire gli annunci da notizie nella speranza che non ci accorgiamo dell'etichetta appesa alla loro biancheria intima.
+<-- appesa alle loro mutande - è più forte e chiaro -->
 
 
 [65](http://www.cluetrain.com/newclues/#65). Quando inserite un "[annuncio nativo](http://it.wikipedia.org/wiki/Native_advertising)," state intaccando non solo la vostra stessa affidabilità, ma l'affidabilità di tutto questo nuovo modo di essere gli uni con gli altri.
@@ -214,7 +215,7 @@ Le tribù hanno dato vita al Noi contro Loro e alla guerra. Esultate? Mica tanto
 
 
 [67](http://www.cluetrain.com/newclues/#67). Gli inserzionisti ce l'hanno fatta per generazioni senza essere subdoli. Possono cavarsela senza essere subdoli anche nella Rete.
-
+<!-- non "ce l'hanno fatta" ma "sono andati avanti per generazioni" -->
 
 ##d. La Guantanamo della Rete.
 
@@ -250,11 +251,11 @@ Le tribù hanno dato vita al Noi contro Loro e alla guerra. Esultate? Mica tanto
 [77](http://www.cluetrain.com/newclues/#77). Le [applicazioni sponsorizzate](https://medium.com/message/net-neutrality-is-sooo-much-more-than-access-to-the-tubes-2344b1e9f220) sviluppate sulla Rete libera stanno diventando inesorabili quanto l'attrazione di un buco nero.
 
 
-[78](http://www.cluetrain.com/newclues/#78). Se Facebook è la vostra esperienza della Rete, allora vi sono stati messi addosso degli occhiali da una azienda che ha concordato con i suoi azionisti di impedirvi di toglierli.
+[78](http://www.cluetrain.com/newclues/#78). Se Facebook è la vostra esperienza della Rete, allora vi sono stati messi addosso degli occhiali da un'azienda che ha concordato con i suoi azionisti di impedirvi di toglierli.
 
 
 [79](http://www.cluetrain.com/newclues/#79). Google, Amazon, Facebook e Apple sono tutte nel business degli occhiali. La principale verità è che i loro occhiali sono in realtà paraocchi: queste aziende vogliono tenerci stretti nello stesso modo in cui i buchi neri trattengono la luce.
-
+<!-- propongo di usare del tutto "paraocchi" per occhiali, e accogliere in toto la metafora. E' un po' una libertà ma mi piace di più come suona. Mi rimetto al vostro parere. -->
 
 [80](http://www.cluetrain.com/newclues/#80). Queste singolarità aziendali sono pericolose non perché sono cattive. Molte di loro infatti si impegnano in azioni civiche di grande importanza. Dovrebbero essere apprezzate per questo.
 
@@ -271,7 +272,7 @@ Le tribù hanno dato vita al Noi contro Loro e alla guerra. Esultate? Mica tanto
 ##f. La privacy nell'era delle spie.
 
 [84](http://www.cluetrain.com/newclues/#84). Ok, Governi, avete vinto. Avete in mano i nostri dati. Ora, cosa possiamo fare per assicurarci che userete questi dati contro di Loro e non contro di Noi? In realtà, che differenza c'è?
-
+<-- Anzi, che differenza cè? -->
 
 [85](http://www.cluetrain.com/newclues/#85). Se vogliamo che i nostri governi facciano un passo indietro, dovremmo concordare che se e quando si verifica un nuovo attacco, non possiamo poi lamentarci di non essere stati messi sotto più stretta sorveglianza.
 
@@ -304,7 +305,8 @@ Le tribù hanno dato vita al Noi contro Loro e alla guerra. Esultate? Mica tanto
 #Costruire e seminare
 ##a. Il richiamo dell'ipocrisia si sente molto bene, se sei in una bolla. 
 
-[94](http://www.cluetrain.com/newclues/#94). Internet è [fantastico](http://www.reddit.com/r/internetisbeautiful). Il Web è fantastico. Voi siete fantastici. Connettiamoci tutti e saremo incredibilmente più fantastici di Jennifer Lawrence. È un semplice dato di fatto.
+[94](http://www.cluetrain.com/newclues/#94). Internet è [fantastica](http://www.reddit.com/r/internetisbeautiful). Il Web è fantastico. Voi siete fantastici. Connettiamoci tutti e saremo incredibilmente più fantastici di Jennifer Lawrence. È un semplice dato di fatto.
+<!-- usano tre parole diverse, io non userei fantastico tutte le volte. Propongo sbalorditiva, fantastico, bellissimi e "più follemente meravigliosi di Jennifer Lawrence" - la quale è folle, non incredibile ;) -->
 
 
 [95](http://www.cluetrain.com/newclues/#95). E allora, non sminuiamo quello che la Rete ha fatto negli ultimi vent'anni.
@@ -322,9 +324,9 @@ Le tribù hanno dato vita al Noi contro Loro e alla guerra. Esultate? Mica tanto
 [99](http://www.cluetrain.com/newclues/#99). Per tutto ciò che non capisci, puoi trovare una spiegazione. E una discussione sull'argomento. E un litigio su di essa. Non è forse fantastico, tutto questo?
 
 
-[100](http://www.cluetrain.com/newclues/#100). Vuoi sapere cosa comprare? Il business che produce un oggetto del desiderio è ora la peggior fonte di informazioni su di esso. La migliore siamo tutti noi.
+[100](http://www.cluetrain.com/newclues/#100). Vuoi sapere cosa comprare? Il business che produce un oggetto del desiderio è la peggior fonte di informazioni su di esso. La migliore siamo tutti noi.
 
-[101](http://www.cluetrain.com/newclues/#101). Vuoi un corso di livello universitario su un argomento che ti interessa? Cerca su [Google](http://www.bing.com/search?q=google). Scegliene uno. È gratis.
+[101](http://www.cluetrain.com/newclues/#101). Vuoi un corso di livello universitario su un argomento che ti interessa? Cerca su [Google](http://www.bing.com/search?q=google). Scegline uno. È gratis.
 
 
 [102](http://www.cluetrain.com/newclues/#102). Certo, Internet non ha risolto tutti i problemi del mondo. Ecco perché l'Onnipotente ci fatto dono delle chiappe: per farcele alzare dalla sedia.
@@ -359,7 +361,7 @@ Le tribù hanno dato vita al Noi contro Loro e alla guerra. Esultate? Mica tanto
 [111](http://www.cluetrain.com/newclues/#111). Sostieni le aziende che hanno davvero capito il Web. Le riconoscerai non tanto perché ci assomigliano, ma perché sono dalla nostra parte.
 
 
-[112](http://www.cluetrain.com/newclues/#112). Certo, le app offrono una bella esperienza. Ma il Web è fatto di collegamenti che si diramano in continuazione, collegandoci senza fine. Per la vita e le idee, la completezza è morte. Scegli la vita.
+[112](http://www.cluetrain.com/newclues/#112). Certo, le app offrono una bella esperienza. Ma il Web è fatto di collegamenti che si diramano in continuazione, collegandoci senza fine. Per la vita e le idee, la completezza è morte. Sceglii la vita.
 
 
 [113](http://www.cluetrain.com/newclues/#113). La rabbia è una patente di stupidità. Le strade di Internet sono già affollate di autisti patentati.
@@ -388,4 +390,4 @@ Le tribù hanno dato vita al Noi contro Loro e alla guerra. Esultate? Mica tanto
 [120](http://www.cluetrain.com/newclues/#120). Lunga vita alla libera Internet.
 
 
-[121](http://www.cluetrain.com/newclues/#121). Lunga vita a un internet che possiamo amare.
+[121](http://www.cluetrain.com/newclues/#121). Lunga vita a un'Internet che possiamo amare.
