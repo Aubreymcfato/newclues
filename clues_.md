@@ -7,7 +7,7 @@
 [2](http://www.cluetrain.com/newclues/#2). I dispositivi che usiamo per connetterci a Internet non sono Internet.
 
 
-[3](http://www.cluetrain.com/newclues/#3). Verizon, Comcast, AT&T, Deutsche Telekom, Telecom Italia e 中国电信 non possiedono Internet. Facebook, Google, e Amazon non sono i monarchi della Rete, né lo sono i loro servi o i loro algoritmi. Né i governi della terra e nè le loro organizzioni commerciali hanno [il consenso dei connessi](http://consentofthenetworked.com/) di cavalcare la Rete come sovrani.
+[3](http://www.cluetrain.com/newclues/#3). Verizon, Comcast, AT&T, Deutsche Telekom, Telecom Italia e 中国电信 non possiedono Internet. Facebook, Google, e Amazon non sono i monarchi della Rete, né lo sono i loro servi o i loro algoritmi. Né i governi della terra e nè le loro organizzazioni commerciali hanno [il consenso dei connessi](http://consentofthenetworked.com/) per cavalcare la Rete come sovrani.
 
 
 [4](http://www.cluetrain.com/newclues/#4). Noi abbiamo Internet in comune, e non la possediamo.
@@ -87,8 +87,8 @@
 [26](http://www.cluetrain.com/newclues/#26). Tim ha creato il Web fornendo dei protocolli (di nuovo quella parola!) che dicono come scrivere una pagina che può linkare a un'altra pagina senza chiedere il permesso a nessuno.
 
 
-[27](http://www.cluetrain.com/newclues/#27). Boom. Nel giro di dieci anni abbiamo avuto miliardi di pagine sul Web —  uno sforzo combinato pari a quello di una Guerra Mondiale, e tuttavia così a fin di bene che il reclamo più grande è stato il tag `<blink\>`.
-<-- reclamo o lamentela? -->
+[27](http://www.cluetrain.com/newclues/#27). Boom. Nel giro di dieci anni abbiamo avuto miliardi di pagine sul Web —  uno sforzo combinato pari a quello di una Guerra Mondiale, e tuttavia così a fin di bene che la lamentela più grande è stata il tag `<blink\>`.
+
 
 [28](http://www.cluetrain.com/newclues/#28). Il Web è un gigantesco, semieterno regno di oggetti esplorabili nelle loro fitte interconnessioni.
 
@@ -214,7 +214,7 @@ Le tribù hanno dato vita al Noi contro Loro e alla guerra. Esultate? Mica tanto
 [66](http://www.cluetrain.com/newclues/#66). E, a proposito, che ne dite di chiamare gli "annunci nativi" con uno qualsiasi dei loro veri nomi: "[product placement](http://it.wikipedia.org/wiki/Product_placement)," <!--- si potrà tradurre? --> "[articoli pubbliredazionali](http://it.wikipedia.org/wiki/Pubbliredazionale)," o "*notizie fottutamente false*"?
 
 
-[67](http://www.cluetrain.com/newclues/#67). Gli inserzionisti ce l'hanno fatta per generazioni senza essere subdoli. Possono cavarsela senza essere subdoli anche nella Rete.
+[67](http://www.cluetrain.com/newclues/#67). Gli inserzionisti sono andati avanti per generazioni senza essere subdoli. Possono cavarsela senza essere subdoli anche nella Rete.
 <!-- non "ce l'hanno fatta" ma "sono andati avanti per generazioni" -->
 
 ##d. La Guantanamo della Rete.
@@ -271,7 +271,7 @@ Le tribù hanno dato vita al Noi contro Loro e alla guerra. Esultate? Mica tanto
 
 ##f. La privacy nell'era delle spie.
 
-[84](http://www.cluetrain.com/newclues/#84). Ok, Governi, avete vinto. Avete in mano i nostri dati. Ora, cosa possiamo fare per assicurarci che userete questi dati contro di Loro e non contro di Noi? In realtà, che differenza c'è?
+[84](http://www.cluetrain.com/newclues/#84). Ok, Governi, avete vinto. Avete in mano i nostri dati. Ora, cosa possiamo fare per assicurarci che userete questi dati contro di Loro e non contro di Noi? Anzi, che differenza c'è?
 <-- Anzi, che differenza cè? -->
 
 [85](http://www.cluetrain.com/newclues/#85). Se vogliamo che i nostri governi facciano un passo indietro, dovremmo concordare che se e quando si verifica un nuovo attacco, non possiamo poi lamentarci di non essere stati messi sotto più stretta sorveglianza.
@@ -305,7 +305,7 @@ Le tribù hanno dato vita al Noi contro Loro e alla guerra. Esultate? Mica tanto
 #Costruire e seminare
 ##a. Il richiamo dell'ipocrisia si sente molto bene, se sei in una bolla. 
 
-[94](http://www.cluetrain.com/newclues/#94). Internet è [fantastica](http://www.reddit.com/r/internetisbeautiful). Il Web è fantastico. Voi siete fantastici. Connettiamoci tutti e saremo incredibilmente più fantastici di Jennifer Lawrence. È un semplice dato di fatto.
+[94](http://www.cluetrain.com/newclues/#94). Internet è [sbalorditiva](http://www.reddit.com/r/internetisbeautiful). Il Web è fantastico. Voi siete bellissimi. Connettiamoci tutti e saremo più follemente meravigliosi di Jennifer Lawrence. È un semplice dato di fatto.
 <!-- usano tre parole diverse, io non userei fantastico tutte le volte. Propongo sbalorditiva, fantastico, bellissimi e "più follemente meravigliosi di Jennifer Lawrence" - la quale è folle, non incredibile ;) -->
 
 
@@ -361,7 +361,7 @@ Le tribù hanno dato vita al Noi contro Loro e alla guerra. Esultate? Mica tanto
 [111](http://www.cluetrain.com/newclues/#111). Sostieni le aziende che hanno davvero capito il Web. Le riconoscerai non tanto perché ci assomigliano, ma perché sono dalla nostra parte.
 
 
-[112](http://www.cluetrain.com/newclues/#112). Certo, le app offrono una bella esperienza. Ma il Web è fatto di collegamenti che si diramano in continuazione, collegandoci senza fine. Per la vita e le idee, la completezza è morte. Sceglii la vita.
+[112](http://www.cluetrain.com/newclues/#112). Certo, le app offrono una bella esperienza. Ma il Web è fatto di collegamenti che si diramano in continuazione, collegandoci senza fine. Per la vita e le idee, la completezza è morte. Scegli la vita.
 
 
 [113](http://www.cluetrain.com/newclues/#113). La rabbia è una patente di stupidità. Le strade di Internet sono già affollate di autisti patentati.
