@@ -79,7 +79,7 @@
 [24](http://www.cluetrain.com/newclues/#24). Tenerci — contare qualcosa — è la forza motrice di Internet.
 
 
-##e Il Web è un Wide World.
+##e. Il Web è un Wide World.
 
 [25](http://www.cluetrain.com/newclues/#25). Nel 1991, [Tim Berners-Lee](http://en.wikipedia.org/wiki/Tim_Berners-Lee) usò la Rete per creare un dono che regalò liberamente a tutti noi: il World Wide Web. Grazie, Tim.
 
@@ -117,38 +117,38 @@
 [35](http://www.cluetrain.com/newclues/#35). La demonizzazione degli 'altri' — persone con aspetti, linguaggi, opinioni, appartenenza a comunità e gruppi che non capiamo, apprezziamo o tolleriamo — è peggiore che mai su Internet.
 
 
-[36](http://www.cluetrain.com/newclues/#36). Le donne in Arabia Saudita non possono guidare? Nel frattempo, [metà di noi](https://medium.com/message/online-and-offline-violence-towards-women-4c854eb591a5) non possono parlare sulla Rete senza [guardarsi alle spalle](http://www.theguardian.com/technology/2013/aug/05/twitter-bomb-threats-women).
+[36](http://www.cluetrain.com/newclues/#36). Le donne in Arabia Saudita non possono guidare? Nel frattempo, [metà di noi](https://medium.com/message/online-and-offline-violence-towards-women-4c854eb591a5) non può parlare sulla Rete senza [guardarsi alle spalle](http://www.theguardian.com/technology/2013/aug/05/twitter-bomb-threats-women).
 
 
 [37](http://www.cluetrain.com/newclues/#37). L'odio è presente in Rete perchè è presente nel mondo, ma la Rete lo rende più facile da esprimere e da sentire.
 
 
-[38](http://www.cluetrain.com/newclues/#38). La soluzione: se avessimo una soluzione, non staremmo a rompervi con tutti questi dannati indizi.
+[38](http://www.cluetrain.com/newclues/#38). La soluzione: se avessimo una soluzione, non staremmo a rompervi con tutte queste tesi.
 
 
-[39](http://www.cluetrain.com/newclues/#39). Pa possiamo dire questo: L'odio non ha creato la rete, ma sta portando la Rete — e noi — indietro.
+[39](http://www.cluetrain.com/newclues/#39). Possiamo però dire questo: L'odio non ha creato la Rete, ma sta portando la Rete — e noi — indietro.
 
 
 [40](http://www.cluetrain.com/newclues/#40). Riconosciamo almeno che la Rete ha i suoi valori impliciti. Valori umani.
 
 
-[41](http://www.cluetrain.com/newclues/#41). Se la guardiamo freddamente, la  Rete è solo tecnologia. Ma è popolata da creature che si scaldano per quello  a cui tengono: le loro vite, i loro amici, il mondo che condividiamo.
+[41](http://www.cluetrain.com/newclues/#41). Se la guardiamo freddamente, la  Rete è solo tecnologia. Ma è popolata da creature che si scaldano per quello a cui tengono: le loro vite, i loro amici, il mondo che condividiamo.
 
 
-[42](http://www.cluetrain.com/newclues/#42). La Rete ci offre un posto comune dove possiamo essere chi siamo, con altri che delight in our differences.
+[42](http://www.cluetrain.com/newclues/#42). La Rete ci offre un posto comune dove possiamo essere chi siamo, insieme ad altri che apprezzano le nostre differenze.
 
 
-[43](http://www.cluetrain.com/newclues/#43). Nessuno possiede quel posto. Tutti possono usarlo. Tutti possono migliorarlo.
+[43](http://www.cluetrain.com/newclues/#43). Nessuno possiede quel posto. Tutti possono usarlo. Chiunque può migliorarlo.
 
 
-[44](http://www.cluetrain.com/newclues/#44). Ecco cos'è una Rete aperta. Guerre sono state combattute per molto meno.
+[44](http://www.cluetrain.com/newclues/#44). Ecco cos'è un Internet libero. Sono state combattute guerre per molto meno.
 
 
 ##b. "Siamo d'accordo su tutto. Ti trovo *affascinante*!"
 
-[45](http://www.cluetrain.com/newclues/#45). Il mondo ci si offre davanti come un buffet, tuttavia [mangiamo sempre](http://www.ethanzuckerman.com/blog/rewire-digital-cosmopolitans-in-the-age-of-connection/) la nostra bistecca e patate, agnello e hummus, pesce e riso, pasta e sugo...
+[45](http://www.cluetrain.com/newclues/#45). Il mondo ci si offre davanti come un buffet, tuttavia [mangiamo sempre](http://www.ethanzuckerman.com/blog/rewire-digital-cosmopolitans-in-the-age-of-connection/) la nostra bistecca e patate, agnello e hummus, pesce e riso, pasta e sugo o quel diavolo che è.
 
-[46](http://www.cluetrain.com/newclues/#46). Facciamo così in parte perchè la conversazione ha bisogno di un terreno comune: linguaggi, interessi, norme, accordi/understandings condivisi. Senza di questi, è difficile se non impossibile avere una conversazionee.
+[46](http://www.cluetrain.com/newclues/#46). Facciamo così in parte perchè la conversazione ha bisogno di un terreno comune: linguaggi, interessi, norme, intese condivisi. Senza di questi, è difficile se non impossibile avere una conversazione.
 
 
 [47](http://www.cluetrain.com/newclues/#47). Terreni condivisi generano tribù. La solida terra del Mondo ha tenuto distanti le tribù, permettendo loro di sviluppare incredibili diversità. Esultate! Le tribù hanno dato vita al Noi contro Loro e alla guerra. Esultate? Mica tanto.
@@ -157,17 +157,17 @@
 [48](http://www.cluetrain.com/newclues/#48). Su Internet, la distanza tra le tribù parte da zero.
 
 
-[49](http://www.cluetrain.com/newclues/#49). Apparentemente, sapere come trovarci interessanti l'un l'altro non è così semplice come sembra.
+[49](http://www.cluetrain.com/newclues/#49). Apparentemente, essere apaci di trovarci l'un l'altro interessanti non è così semplice come sembra.
 
 
-[50](http://www.cluetrain.com/newclues/#50). Questa è una sfida che possiamo affrontare essendo aperti, empatici, e pazienti. Possiamo farcela, squadra! Siamo i migliori! 
+[50](http://www.cluetrain.com/newclues/#50). Questa è una sfida che possiamo affrontare essendo aperti, empatici e pazienti. Possiamo farcela, squadra! Siamo i numeri 1! Siamo i numeri 1! 
 
-[51](http://www.cluetrain.com/newclues/#51). Essere accoglienti: questo è un valore che la Rete ha bisogno di imparare dalle migliori culture del nostro mondo reale.
+[51](http://www.cluetrain.com/newclues/#51). Essere accoglienti: ecco un valore che la Rete ha bisogno di imparare dalle nostre migliori culture del mondo reale.
 
 
-##c. Il marketing rende parlare più difficile.
+##c. E ancora il marketing rende più difficile il parlare.
 
-[52](http://www.cluetrain.com/newclues/#52). Avevamo ragione [la prima volta](http://www.cluetrain.com/): i mercati sono conversazioni.
+[52](http://www.cluetrain.com/newclues/#52). Avevamo ragione [la prima volta](http://www.cluetrain.com/): i Mercati sono conversazioni.
 
 
 [53](http://www.cluetrain.com/newclues/#53). Una conversazione non è tirarci per la manica per mostrarci un prodotto di cui non vogliamo sentier parlare. A conversation isn't your business tugging at our sleeve to shill a product we don't want to hear about.
