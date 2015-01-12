@@ -298,7 +298,7 @@
 [92](http://www.cluetrain.com/newclues/#92). Le spinte economiche e politiche che vorrebbero abbassarci i pantaloni e sollevarci la gonna sono così forti che faremo meglio a investire in mutande di stagnola.
 
 
-[93](http://www.cluetrain.com/newclues/#93). Gli hacker ad averci portato a questo, gli hacker dovranno tirarcene fuori.
+[93](http://www.cluetrain.com/newclues/#93). Sono gli hacker ad averci portato a questo, e gli hacker dovranno tirarcene fuori.
 
 
 #Costruire e seminare
@@ -319,8 +319,7 @@
 [98](http://www.cluetrain.com/newclues/#98). I politici devono ora spiegare le loro posizioni ben oltre il vecchio volantino elettorale ciclostilato.
 
 
-[99](http://www.cluetrain.com/newclues/#99). Per tutto ciò che non capisci, puoi trovare una spiegazione. E una discussione sull'argomento. E un dibattito. Non è forse fantastico, tutto questo?
-Per ogni cosa che non capite potete trovare una spiegazione. E una discussione a riguardo. E un litigio su di essa. Non è evidente quanto tutto ciò sia meraviglioso?
+[99](http://www.cluetrain.com/newclues/#99). Per tutto ciò che non capite, potete trovare una spiegazione. E una discussione sull'argomento. E un dibattito. Non è forse fantastico, tutto questo?
 
 [100](http://www.cluetrain.com/newclues/#100). Vuoi sapere cosa comprare? Il business che produce un oggetto del desiderio è ora la peggior fonte di informazioni su di esso. La migliore siamo tutti noi.
 Volete sapere cosa comprare? Le aziende che fanno un oggetto del desiderio non sono la migliore fonte d'informazione su di esso. La fonte migliore siamo tutti noi.
