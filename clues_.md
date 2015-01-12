@@ -1,13 +1,13 @@
 #Un tempo eravamo giovani nel Giardino... 
 ##a. Internet siamo noi, connessi.
 
-[1](http://www.cluetrain.com/newclues/#1). Internet non è fatto di cavi di rame, di fibre ottiche, onde radio, e neanche di tubi.
+[1](http://www.cluetrain.com/newclues/#1). Internet non è fatta di cavi, di fibre ottiche, di onde radio, e neanche di tubi.
 
 
 [2](http://www.cluetrain.com/newclues/#2). I dispositivi che usiamo per connetterci a Internet non sono Internet.
 
 
-[3](http://www.cluetrain.com/newclues/#3). Verizon, Comcast, AT&T, Deutsche Telekom, Telecom Italia e 中国电信 non possiedono Internet. Facebook, Google, e Amazon non sono i monarchi della Rete, né lo sono i loro servi o i loro algoritmi. Né i governi della terra e le loro Associazioni (Trade Associations) hanno [il consenso dei connessi](http://consentofthenetworked.com/) di cavalcare la Rete come sovrani.
+[3](http://www.cluetrain.com/newclues/#3). Verizon, Comcast, AT&T, Deutsche Telekom, Telecom Italia e 中国电信 non possiedono Internet. Facebook, Google, e Amazon non sono i monarchi della Rete, né lo sono i loro servi o i loro algoritmi. Né i governi della terra e nè le loro organizzioni commerciali hanno [il consenso dei connessi](http://consentofthenetworked.com/) di cavalcare la Rete come sovrani.
 
 
 [4](http://www.cluetrain.com/newclues/#4). Noi abbiamo Internet in comune, e non lo possediamo.
@@ -39,18 +39,18 @@
 [12](http://www.cluetrain.com/newclues/#12). Non si è mai avuto uno strumento con uno scopo così generico dall'invenzione del linguaggio.
 
 
-[13](http://www.cluetrain.com/newclues/#13). Questo significa che Internet non è fatto per niente in particolare. Non è fatto per i social network, né per i documenti, né per la pubblicità, né per il business, né per l'educazione, né per il porno, nè per nulla. E' progettato specificamente per fare tutto.
+[13](http://www.cluetrain.com/newclues/#13). Questo significa che Internet non è fatta per niente in particolare. Non è fatta per i social network, né per i documenti, né per la pubblicità, né per il business, né per l'educazione, né per il porno, né per nulla. È progettata specificamente per fare tutto.
 
 
 [14](http://www.cluetrain.com/newclues/#14). Chi vuole [ottimizzare](http://books.google.com/books?id=9lTtWQlLkwwC&pg=PA56&lpg=PA56&dq=optimizing+de-optimizing+david+reed&source=bl&ots=_mqGSLoqSV&sig=TWO4uUTWkzGPDBGmwyS0uqBz0NA&hl=en&sa=X&ei=Nm5lVN-hJtbdsASnzoKQAQ&ved=0CCAQ6AEwAA#v=onepage&q=optimizing%20de-optimizing%20david%20reed&f=false) Internet per uno scopo lo de-ottimizza per tutti gli altri.
 
 
-[15](http://www.cluetrain.com/newclues/#15). Internet, come la gravità, è indiscriminato nella sua attrazione. Ci mette insieme, [il giusto e l'ingiusto](http://wp-up.s3.amazonaws.com/wittgenstein/2012/06/peanuts_sui_giusti.jpg) allo stesso modo.
+[15](http://www.cluetrain.com/newclues/#15). Internet, come la gravità, è indiscriminata nella sua attrazione. Ci mette insieme, [il giusto e l'ingiusto](http://wp-up.s3.amazonaws.com/wittgenstein/2012/06/peanuts_sui_giusti.jpg) allo stesso modo.
 
 
 ##c. La Rete non è contenuti.
 
-[16](http://www.cluetrain.com/newclues/#16). Ci sono incredibili contenuti su Internet. Ma, Santa Polenta, Internet non è fatta di contenuti.
+[16](http://www.cluetrain.com/newclues/#16). Ci sono incredibili contenuti su Internet. Ma, perdiana, Internet non è fatta di contenuti.
 
 
 [17](http://www.cluetrain.com/newclues/#17). La prima poesia di un adolescente, la felice rivelazione di un segreto custodito a lungo, un bel disegno buttato giù da una mano paralitica, il post di un blog sotto un regime che odia il suono delle voci del suo popolo – nessuna di queste persone aveva intenzione di scrivere un contenuto.
@@ -87,7 +87,7 @@
 [26](http://www.cluetrain.com/newclues/#26). Tim ha creato il Web fornendo dei protocolli (di nuovo quella parola!) che dicono come scrivere una pagina che può linkare a un'altra pagina senza chiedere il permesso a nessuno.
 
 
-[27](http://www.cluetrain.com/newclues/#27). Boom. Nel giro di dieci anni abbiamo avuto miliardi di pagine sul Web —  uno sforzo combinato pari a quello di una Guerra Mondiale, e tuttavia così a fin di bene che il reclamo più grande è stato il tag <code><blink\></code>.
+[27](http://www.cluetrain.com/newclues/#27). Boom. Nel giro di dieci anni abbiamo avuto miliardi di pagine sul Web —  uno sforzo combinato pari a quello di una Guerra Mondiale, e tuttavia così a fin di bene che il reclamo più grande è stato il tag `<blink\>`.
 
 
 [28](http://www.cluetrain.com/newclues/#28). Il Web è un gigantesco, semieterno regno di oggetti esplorabili nelle loro fitte interconnessioni.
@@ -98,7 +98,7 @@
 [30](http://www.cluetrain.com/newclues/#30). Diversamente dal mondo reale, ogni cosa e ogni connessione sul Web è stata creata da qualcuno di noi esprimendo un interesse e un'opinione su come quei [piccoli pezzi](http://www.smallpieces.com/) vanno messi insieme.
 
 
-[31](http://www.cluetrain.com/newclues/#31). Ogni link da parte di una persona che ha qualcosa da dire è un atto di generosità e altruismo, che invita i lettori a lasciare la pagina per guardare come appare il mondo agli occhi di qualcun altro.
+[31](http://www.cluetrain.com/newclues/#31). Ogni link da parte di una persona che ha qualcosa da dire è un atto di generosità e altruismo, che invita i lettori a lasciare la pagina, per guardare come appare il mondo agli occhi di qualcun altro.
 
 
 [32](http://www.cluetrain.com/newclues/#32). Il Web ricrea il mondo in un'immagine — la nostra — emergente e collettiva.
@@ -141,7 +141,7 @@
 [43](http://www.cluetrain.com/newclues/#43). Nessuno possiede quel posto. Tutti possono usarlo. Chiunque può migliorarlo.
 
 
-[44](http://www.cluetrain.com/newclues/#44). Ecco cos'è un Internet libero. Sono state combattute guerre per molto meno.
+[44](http://www.cluetrain.com/newclues/#44). Ecco cos'è un Internet libera. Sono state combattute guerre per molto meno.
 
 
 ##b. "Siamo d'accordo su tutto. Ti trovo *affascinante*!"
@@ -151,13 +151,14 @@
 [46](http://www.cluetrain.com/newclues/#46). Facciamo così in parte perchè la conversazione ha bisogno di un terreno comune: linguaggi, interessi, norme, intese condivisi. Senza di questi, è difficile se non impossibile avere una conversazione.
 
 
-[47](http://www.cluetrain.com/newclues/#47). Terreni condivisi generano tribù. La solida terra del Mondo ha tenuto distanti le tribù, permettendo loro di sviluppare incredibili diversità. Esultate! Le tribù hanno dato vita al Noi contro Loro e alla guerra. Esultate? Mica tanto.
+[47](http://www.cluetrain.com/newclues/#47). Terreni condivisi generano tribù. La solida terra del Mondo ha tenuto distanti le tribù, permettendo loro di sviluppare incredibili diversità. Esultate! 
+Le tribù hanno dato vita al Noi contro Loro e alla guerra. Esultate? Mica tanto.
 
 
 [48](http://www.cluetrain.com/newclues/#48). Su Internet, la distanza tra le tribù parte da zero.
 
 
-[49](http://www.cluetrain.com/newclues/#49). Apparentemente, essere apaci di trovarci l'un l'altro interessanti non è così semplice come sembra.
+[49](http://www.cluetrain.com/newclues/#49). Apparentemente, essere capaci di trovarci l'un l'altro interessanti non è così semplice come sembra.
 
 
 [50](http://www.cluetrain.com/newclues/#50). Questa è una sfida che possiamo affrontare essendo aperti, empatici e pazienti. Possiamo farcela, squadra! Siamo i numeri 1! Siamo i numeri 1! 
@@ -176,7 +177,7 @@
 [54](http://www.cluetrain.com/newclues/#54). Se vogliamo sapere la verità sui vostri prodotti, lo scopriremo discutendo tra di noi.
 
 
-[55](http://www.cluetrain.com/newclues/#55). Ci rendiamo conto che queste conversazioni siano incredibilmente interessanti per voi. Peccato. Sono nostre.
+[55](http://www.cluetrain.com/newclues/#55). Ci rendiamo conto che queste conversazioni sono incredibilmente interessanti per voi. Peccato. Sono nostre.
 
 
 [56](http://www.cluetrain.com/newclues/#56). Siete i benvenuti se volete partecipare alla nostra conversazione, ma solo se ci dite per chi lavorate, e se potete parlare per voi stessi ed essere autentici.
@@ -191,7 +192,7 @@
 [59](http://www.cluetrain.com/newclues/#59). Non preoccupatevi: vi diremo noi quando saremo sul mercato per qualcosa. A modo nostro. Non vostro. Fidatevi: [sarà un cosa bella, per voi](http://intentioneconomy.net/).
 
 
-[60](http://www.cluetrain.com/newclues/#60). Gli annunci pubblicitari che sembrano umani ma provengono dagli intestini irritabili del vostro ufficio marketing, macchiano il tessuto del Web.
+[60](http://www.cluetrain.com/newclues/#60). Gli annunci pubblicitari che sembrano umani ma provengono dagli intestini irritabili del vostro ufficio marketing macchiano il tessuto del Web.
 
 
 [61](http://www.cluetrain.com/newclues/#61). Quando personalizzare qualcosa è raccapricciante, è un chiaro segnale che non capisci cosa significa essere una persona.
@@ -200,7 +201,7 @@
 [62](http://www.cluetrain.com/newclues/#62). Personale è umano. Personalizzato non lo è.
 
 
-[63](http://www.cluetrain.com/newclues/#63). Più le macchine sembrano umane e più scivolano nella [valle misteriosa](https://en.wikipedia.org/wiki/Uncanny_valley) dove ogni cosa è uno [spettacolo](http://www.theatlantic.com/technology/archive/2014/06/data-doppelgangers-and-the-uncanny-valley-of-personalization/372780/) [inquietante](http://www.niemanlab.org/2014/12/the-year-we-get-creeped-out-by-algorithms/) .
+[63](http://www.cluetrain.com/newclues/#63). Più le macchine sembrano umane e più scivolano nella *[uncanny valley]*(https://en.wikipedia.org/wiki/Uncanny_valley) dove ogni cosa è uno [spettacolo](http://www.theatlantic.com/technology/archive/2014/06/data-doppelgangers-and-the-uncanny-valley-of-personalization/372780/) [inquietante](http://www.niemanlab.org/2014/12/the-year-we-get-creeped-out-by-algorithms/) .
 
 
 [64](http://www.cluetrain.com/newclues/#64). E poi: smettetela di travestire gli annunci da notizie nella speranza che non ci accorgiamo dell'etichetta appesa alla loro biancheria intima.
@@ -209,7 +210,7 @@
 [65](http://www.cluetrain.com/newclues/#65). Quando inserite un "[annuncio nativo](http://it.wikipedia.org/wiki/Native_advertising)," state intaccando non solo la vostra stessa affidabilità, ma l'affidabilità di tutto questo nuovo modo di essere gli uni con gli altri.
 
 
-[66](http://www.cluetrain.com/newclues/#66). E, a proposito, che ne dite di chiamare gli "annunci nativi" con uno qualsiasi dei loro veri nomi: "[product placement](http://it.wikipedia.org/wiki/Product_placement)," <!--- si potrà tradurre? --> "[articoli pubbliredazionali](http://it.wikipedia.org/wiki/Pubbliredazionale)," o "notizie fottutamente false"?
+[66](http://www.cluetrain.com/newclues/#66). E, a proposito, che ne dite di chiamare gli "annunci nativi" con uno qualsiasi dei loro veri nomi: "[product placement](http://it.wikipedia.org/wiki/Product_placement)," <!--- si potrà tradurre? --> "[articoli pubbliredazionali](http://it.wikipedia.org/wiki/Pubbliredazionale)," o "*notizie fottutamente false*"?
 
 
 [67](http://www.cluetrain.com/newclues/#67). Gli inserzionisti ce l'hanno fatta per generazioni senza essere subdoli. Possono cavarsela senza essere subdoli anche nella Rete.
@@ -217,10 +218,10 @@
 
 ##d. La Guantanamo della Rete.
 
-[68](http://www.cluetrain.com/newclues/#68). Tutti amiamo le nostre brillanti app, perfino quando sono inaccessibili <!--- sigillate? --> quanto una base lunare. Ma mettete insieme tutte le app inaccessibili del mondo e avrete solo un cumulo di app.
+[68](http://www.cluetrain.com/newclues/#68). Tutti amiamo le nostre brillanti app, perfino quando sono sigillate quanto una base lunare. Ma mettete insieme tutte le app sigillate del mondo e avrete soltanto un cumulo di app.
 
 
-[69](http://www.cluetrain.com/newclues/#69). Mettete insieme tutte le pagine web a avrete un nuovo mondo.
+[69](http://www.cluetrain.com/newclues/#69). Mettete insieme tutte le pagine web e avrete un nuovo mondo.
 
 
 [70](http://www.cluetrain.com/newclues/#70). Le pagine web sono connessione. Le app sono controllo.
@@ -241,18 +242,18 @@
 [75](http://www.cluetrain.com/newclues/#75). Ahi, un colpo basso!
 
 
-[76](http://www.cluetrain.com/newclues/#76). Ehi, "Colpo basso" sarebbe proprio una gran bella nuova app! Con la scritta "offre acquisti in app" dappertutto.
+[76](http://www.cluetrain.com/newclues/#76). Ehi, "Colpo basso" sarebbe proprio una gran bella nuova app! Facciamola con la scritta "Offre acquisti in app" dappertutto.
 
 
 ##e. La gravità è una gran cosa, fino a quando non ci risucchia tutti in un buco nero.
 
-[77](http://www.cluetrain.com/newclues/#77). Le [applicazioni sponsorizzate ](https://medium.com/message/net-neutrality-is-sooo-much-more-than-access-to-the-tubes-2344b1e9f220) sviluppate sulla Rete libera stanno diventando inesorabili quanto l'attrazione di un buco nero.
+[77](http://www.cluetrain.com/newclues/#77). Le [applicazioni sponsorizzate](https://medium.com/message/net-neutrality-is-sooo-much-more-than-access-to-the-tubes-2344b1e9f220) sviluppate sulla Rete libera stanno diventando inesorabili quanto l'attrazione di un buco nero.
 
 
 [78](http://www.cluetrain.com/newclues/#78). Se Facebook è la vostra esperienza della Rete, allora vi sono stati messi addosso degli occhiali da una azienda che ha concordato con i suoi azionisti di impedirvi di toglierli.
 
 
-[79](http://www.cluetrain.com/newclues/#79). Google, Amazon, Facebook e Apple sono tutte nel business degli occhiali.  La principale verità è che i loro occhiali sono in realtà paraocchi: queste aziende vogliono tenerci stretti nello stesso modo in cui i buchi neri trattengono la luce.
+[79](http://www.cluetrain.com/newclues/#79). Google, Amazon, Facebook e Apple sono tutte nel business degli occhiali. La principale verità è che i loro occhiali sono in realtà paraocchi: queste aziende vogliono tenerci stretti nello stesso modo in cui i buchi neri trattengono la luce.
 
 
 [80](http://www.cluetrain.com/newclues/#80). Queste singolarità aziendali sono pericolose non perché sono cattive. Molte di loro infatti si impegnano in azioni civiche di grande importanza. Dovrebbero essere apprezzate per questo.
@@ -264,7 +265,7 @@
 [82](http://www.cluetrain.com/newclues/#82). Dove non ci sono alternative competitive, dobbiamo essere estremamente vigili, per ricordare a questi Giganti della Valley i valori del Web che per primi li hanno ispirati.
 
 
-[83](http://www.cluetrain.com/newclues/#83). E poi abbiamo bisogno di onorare il suono che produciamo quando uno di noi si allontana coraggiosamente da loro. Qualcosa tra il boato di un razzo in partenza dalla piattaforma di lancio e lo strappo del Velcro quando ci si slaccia un vestito troppo stretto.
+[83](http://www.cluetrain.com/newclues/#83). E poi abbiamo bisogno di onorare il suono che produciamo quando uno di noi si allontana coraggiosamente da loro. Qualcosa tra il boato di un razzo in partenza dalla piattaforma di lancio e lo strappo del velcro quando ci si slaccia un vestito troppo stretto.
 
 
 ##f. La privacy nell'era delle spie.
@@ -275,7 +276,7 @@
 [85](http://www.cluetrain.com/newclues/#85). Se vogliamo che i nostri governi facciano un passo indietro, dovremmo concordare che se e quando si verifica un nuovo attacco, non possiamo poi lamentarci di non essere stati messi sotto più stretta sorveglianza.
 
 
-[86](http://www.cluetrain.com/newclues/#86). Uno scambio non è equo se non siamo consapevoli di quello a cui rinunciamo. E' chiaro, "meno Privacy per più Sicurezza"?
+[86](http://www.cluetrain.com/newclues/#86). Uno scambio non è equo se non siamo consapevoli di quello a cui rinunciamo. È chiaro, "meno Privacy per più Sicurezza"?
 
 
 [87](http://www.cluetrain.com/newclues/#87). Con una probabilità che si avvicina all'assoluta certezza, ci pentiremo di non aver fatto di più per proteggere i dati dalle mani dei nostri governi e dai signori delle corporazioni.
@@ -283,13 +284,12 @@
 
 ##g. La privacy nell'era dei disonesti.
 
-
-[88](http://www.cluetrain.com/newclues/#88). E' giusto garantire la privacy personale a chi la vuole. E tutti stabiliamo dei limiti, a un certo punto.
+[88](http://www.cluetrain.com/newclues/#88). È giusto garantire la privacy personale a chi la vuole. E tutti stabiliamo dei limiti, a un certo punto.
 
 
 [89](http://www.cluetrain.com/newclues/#89). Domanda: Quanto pensate ci abbia messo la cultura pre-Web a capire dove stabilire i limiti? La risposta è "Quanto vecchia è la cultura?""
 
-[90](http://www.cluetrain.com/newclues/#90). **Il Web ha a malapena superato la sua adolescenza.** Ci troviamo all'inizio, non alla fine, della storia della privacy.
+[90](http://www.cluetrain.com/newclues/#90). Il Web ha a malapena superato la sua adolescenza. Ci troviamo all'inizio, non alla fine, della storia della privacy.
 
 
 [91](http://www.cluetrain.com/newclues/#91). Potremo comprendere che cosa vuol dire *privato* solo quando avremo capito cosa vuol dire *sociale*. Abbiamo appena iniziato a reinventare il concetto.
@@ -298,13 +298,13 @@
 [92](http://www.cluetrain.com/newclues/#92). Le spinte economiche e politiche che vorrebbero abbassarci i pantaloni e sollevarci la gonna sono così forti che faremo meglio a investire in mutande di stagnola.
 
 
-[93](http://www.cluetrain.com/newclues/#93). Gli hacker ad averci portato a questo, gli hacker dovranno tirarcene fuori.
+[93](http://www.cluetrain.com/newclues/#93). Sono gli hacker ad averci portato a questo, gli hacker dovranno tirarcene fuori.
 
 
 #Costruire e seminare
 ##a. Il richiamo dell'ipocrisia si sente molto bene, se sei in una bolla. 
 
-[94](http://www.cluetrain.com/newclues/#94). Internet è [fantastico](http://www.reddit.com/r/internetisbeautiful). Il Web è fantastico. Voi siete fantastici. Connettiamoci tutti e saremo incredibilmente più fantastici di Jennifer Lawrence. E' un semplice dato di fatto.
+[94](http://www.cluetrain.com/newclues/#94). Internet è [fantastico](http://www.reddit.com/r/internetisbeautiful). Il Web è fantastico. Voi siete fantastici. Connettiamoci tutti e saremo incredibilmente più fantastici di Jennifer Lawrence. È un semplice dato di fatto.
 
 
 [95](http://www.cluetrain.com/newclues/#95). E allora, non sminuiamo quello che la Rete ha fatto negli ultimi vent'anni.
@@ -319,13 +319,12 @@
 [98](http://www.cluetrain.com/newclues/#98). I politici devono ora spiegare le loro posizioni ben oltre il vecchio volantino elettorale ciclostilato.
 
 
-[99](http://www.cluetrain.com/newclues/#99). Per tutto ciò che non capisci, puoi trovare una spiegazione. E una discussione sull'argomento. E un dibattito. Non è forse fantastico, tutto questo?
-Per ogni cosa che non capite potete trovare una spiegazione. E una discussione a riguardo. E un litigio su di essa. Non è evidente quanto tutto ciò sia meraviglioso?
+[99](http://www.cluetrain.com/newclues/#99). Per tutto ciò che non capisci, puoi trovare una spiegazione. E una discussione sull'argomento. E un litigio su di essa. Non è forse fantastico, tutto questo?
+
 
 [100](http://www.cluetrain.com/newclues/#100). Vuoi sapere cosa comprare? Il business che produce un oggetto del desiderio è ora la peggior fonte di informazioni su di esso. La migliore siamo tutti noi.
-Volete sapere cosa comprare? Le aziende che fanno un oggetto del desiderio non sono la migliore fonte d'informazione su di esso. La fonte migliore siamo tutti noi.
 
-[101](http://www.cluetrain.com/newclues/#101). Vuoi un corso di livello universitario su un argomento che ti interessa? Cerca su [Google](http://www.bing.com/search?q=google). Scegline uno. E' gratis.
+[101](http://www.cluetrain.com/newclues/#101). Vuoi un corso di livello universitario su un argomento che ti interessa? Cerca su [Google](http://www.bing.com/search?q=google). Scegliene uno. È gratis.
 
 
 [102](http://www.cluetrain.com/newclues/#102). Certo, Internet non ha risolto tutti i problemi del mondo. Ecco perché l'Onnipotente ci fatto dono delle chiappe: per farcele alzare dalla sedia.
@@ -345,7 +344,7 @@ Volete sapere cosa comprare? Le aziende che fanno un oggetto del desiderio non s
 [106](http://www.cluetrain.com/newclues/#106). Dovremmo avere il coraggio di [chiedere](http://www.ted.com/speakers/amanda_palmer) quando abbiamo bisogno di aiuto.
 
 
-[107](http://www.cluetrain.com/newclues/#107). La nostra cultura ha alla base la condivisione e le leggi hanno alla base il copyright. Il copyright ha il suo perchè, ma nel dubbio [liberiamolo](http://www.creativecommons.org).
+[107](http://www.cluetrain.com/newclues/#107). La nostra cultura ha alla base la condivisione e le leggi hanno alla base il copyright. Il copyright ha il suo perchè, ma, nel dubbio, [liberiamolo](http://www.creativecommons.org).
 
 
 [108](http://www.cluetrain.com/newclues/#108). Nel contesto sbagliato sono tutti stronzi. (Anche noi, ma lo sapevate già.) Se inviti qualcuno a fare una nuotata, definisci le regole. Tutti i troll, fuori dalla piscina!
@@ -374,7 +373,7 @@ Volete sapere cosa comprare? Le aziende che fanno un oggetto del desiderio non s
 
 ##c. Stare insieme: la causa e la soluzione ad ogni [problema](http://en.wikipedia.org/wiki/Homer_vs._the_Eighteenth_Amendment).
 
-[116](http://www.cluetrain.com/newclues/#116). Se ci siamo concentrati sul ruolo del Popolo della Rete  — voi e noi — nel declino di Internet, è perché conserviamo ancora la stessa fiducia che avevamo all'inizio.
+[116](http://www.cluetrain.com/newclues/#116). Se ci siamo concentrati sul ruolo del Popolo della Rete — voi e noi — nel declino di Internet, è perché conserviamo ancora la stessa fiducia che avevamo all'inizio.
 
 
 [117](http://www.cluetrain.com/newclues/#117). Noi, il Popolo della Rete, non possiamo comprendere quanto possiamo fare insieme perché siamo ancora lontani dall'aver finalmente inventato come stare insieme.
@@ -386,7 +385,7 @@ Volete sapere cosa comprare? Le aziende che fanno un oggetto del desiderio non s
 [119](http://www.cluetrain.com/newclues/#119). L'amore è la forza di gravità della connessione.
 
 
-[120](http://www.cluetrain.com/newclues/#120). Lunga vita all'Internet libero.
+[120](http://www.cluetrain.com/newclues/#120). Lunga vita alla libera Internet.
 
 
 [121](http://www.cluetrain.com/newclues/#121). Lunga vita a un internet che possiamo amare.
