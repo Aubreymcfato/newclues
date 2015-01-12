@@ -209,7 +209,7 @@
 [65](http://www.cluetrain.com/newclues/#65). Quando inserite un "[annuncio nativo](http://it.wikipedia.org/wiki/Native_advertising)," state intaccando non solo la vostra stessa affidabilità, ma l'affidabilità di tutto questo nuovo modo di essere gli uni con gli altri.
 
 
-[66](http://www.cluetrain.com/newclues/#66). E, a proposito, che ne dite di chiamare gli "annunci nativi" con uno qualsiasi dei loro veri nomi: "[product placement](http://it.wikipedia.org/wiki/Product_placement)," <!--- si potrà tradurre? ---> "[articoli pubbliredazionali](http://it.wikipedia.org/wiki/Pubbliredazionale)," o "notizie fottutamente false"?
+[66](http://www.cluetrain.com/newclues/#66). E, a proposito, che ne dite di chiamare gli "annunci nativi" con uno qualsiasi dei loro veri nomi: "[product placement](http://it.wikipedia.org/wiki/Product_placement)," <!--- si potrà tradurre? --> "[articoli pubbliredazionali](http://it.wikipedia.org/wiki/Pubbliredazionale)," o "notizie fottutamente false"?
 
 
 [67](http://www.cluetrain.com/newclues/#67). Gli inserzionisti ce l'hanno fatta per generazioni senza essere subdoli. Possono cavarsela senza essere subdoli anche nella Rete.
@@ -217,7 +217,7 @@
 
 ##d. La Guantanamo della Rete.
 
-[68](http://www.cluetrain.com/newclues/#68). Tutti noi amiano le nostre brillanti app, perfino quando sono inaccessibili <!--- sigillate? ---> quanto una base lunare. Ma metti insieme tutte le app inaccessibili del mondo e avrai solo un cumulo di app.
+[68](http://www.cluetrain.com/newclues/#68). Tutti noi amiano le nostre brillanti app, perfino quando sono inaccessibili <!--- sigillate? --> quanto una base lunare. Ma metti insieme tutte le app inaccessibili del mondo e avrai solo un cumulo di app.
 
 
 [69](http://www.cluetrain.com/newclues/#69). Metti insieme tutte le pagine web a avrai un nuovo mondo.
@@ -289,8 +289,7 @@
 
 [89](http://www.cluetrain.com/newclues/#89). Domanda: Quanto pensi ci abbia messo la cultura pre-Web a capire dove stabilire i limiti? Risposta: Quanto vecchia è la cultura?
 
-
-[90](http://www.cluetrain.com/newclues/#90). **Il Web ha a malapena superato la sua adolescenza.**E' solo l'inizio, non la fine, della storia della privacy.
+[90](http://www.cluetrain.com/newclues/#90). **Il Web ha a malapena superato la sua adolescenza.** E' solo l'inizio, non la fine, della storia della privacy.
 
 
 [91](http://www.cluetrain.com/newclues/#91). Potremo comprendere che cosa vuol dire privato, solo quando avremo capito cosa vuol dire sociale. E abbiamo appena iniziato a reinventare il concetto.
@@ -303,8 +302,7 @@
 
 
 #Costruire e seminare
-##a. Il richiamo dell'ipocrisia è ben amplificato in una bolla chiusa. 
-<!--- dura questa, sul titoletto potrei sbagliarmi, ho interpretato il Kumbayah nell'uso cinico colloquiale e "echo chamber" nell'uso che se ne fa dei media, tipo "bolla filtrante", ma è un gioco di parole perfetto in inglese difficilmente traducibile. Proprio non saprei... --->
+##a. Il richiamo dell'ipocrisia si sente molto bene, se sei in una bolla. 
 
 [94](http://www.cluetrain.com/newclues/#94). Internet è [sorprendente](http://www.reddit.com/r/internetisbeautiful). Il Web è fantastico. Voi siete stupendi. Connettiamoci tutti e saremo incredibilmente più straordinari di Jennifer Lawrence. E' un semplice dato di fatto.
 
@@ -313,6 +311,7 @@
 
 
 [96](http://www.cluetrain.com/newclues/#96). C’è molta più musica nel mondo.
+
 
 [97](http://www.cluetrain.com/newclues/#97). Siamo ora in grado di farci una cultura da soli, salvo occasionali incursioni al cinema per qualcosa di esplosivo e una dose di popcorn da 9 dollari.
 
