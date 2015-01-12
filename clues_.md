@@ -165,33 +165,33 @@
 [51](http://www.cluetrain.com/newclues/#51). Essere accoglienti: ecco un valore che la Rete ha bisogno di imparare dalle nostre migliori culture del mondo reale.
 
 
-##c. E ancora il marketing rende più difficile il parlare.
+##c. Il marketing rende ancora più difficile parlare.
 
 [52](http://www.cluetrain.com/newclues/#52). Avevamo ragione [la prima volta](http://www.cluetrain.com/): i Mercati sono conversazioni.
 
 
-[53](http://www.cluetrain.com/newclues/#53). Una conversazione non è tirarci per la manica per mostrarci un prodotto di cui non vogliamo sentier parlare. A conversation isn't your business tugging at our sleeve to shill a product we don't want to hear about.
+[53](http://www.cluetrain.com/newclues/#53). Una conversazione non è tirarci per la manica per mostrarci un prodotto di cui non vogliamo sentir parlare.
 
 
-[54](http://www.cluetrain.com/newclues/#54). Se vogliamo sapere la verità sui tuoi prodotti, lo scopriremo l'uno dall'altro.
+[54](http://www.cluetrain.com/newclues/#54). Se vogliamo sapere la verità sui vostri prodotti, lo scopriremo discutendo tra di noi.
 
 
-[55](http://www.cluetrain.com/newclues/#55). Capiamo bene che queste conversazioni siano incredibilmente interessanti per te. Peccato. Sono nostre.
+[55](http://www.cluetrain.com/newclues/#55). Ci rendiamo conto che queste conversazioni siano incredibilmente interessanti per voi. Peccato. Sono nostre.
 
 
-[56](http://www.cluetrain.com/newclues/#56). Sei il benvenuto nel partecipare alla nostra conversazione, ma solo se ci dici per chi lavori, e se tu puoi parlare per te stesso ed essendo te stesso.
+[56](http://www.cluetrain.com/newclues/#56). Siete i benvenuti se volete partecipare alla nostra conversazione, ma solo se ci dite per chi lavorate, e se potete parlare per voi stessi ed essere autentici.
 
 
-[57](http://www.cluetrain.com/newclues/#57). Tutte le volte che ci chiami "consumatori", ci sentiamo come mucche che scoprono il significato della parola "carne".
+[57](http://www.cluetrain.com/newclues/#57). Tutte le volte che ci chiamate "consumatori", ci sentiamo come mucche che cercano il significato della parola "carne".
 
 
-[58](http://www.cluetrain.com/newclues/#58). Smettila di trivellare le nostre vite per estrarre dati che letteralmente non sono affari tuoi e che le tue macchine male interpretano.
+[58](http://www.cluetrain.com/newclues/#58). Smettetela di trivellare le nostre vite per estrarre dati che non sono affari vostri e che le vostre macchine interpretano male.
 
 
-[59](http://www.cluetrain.com/newclues/#59). Non ti preoccupare: ti diremo noi quando saremo sul mercato per qualcosa. A modo nostro. Non tuo. Fidati: [sarà un cosa bella, per te](http://intentioneconomy.net/).
+[59](http://www.cluetrain.com/newclues/#59). Non preoccupatevi: vi diremo noi quando saremo sul mercato per qualcosa. A modo nostro. Non vostro. Fidatevi: [sarà un cosa bella, per voi](http://intentioneconomy.net/).
 
 
-[60](http://www.cluetrain.com/newclues/#60). Gli annunci pubblicitari che sembrano umani ma provengono dagli intestini irritabili del tuo ufficio marketing, macchiano il tessuto del Web.
+[60](http://www.cluetrain.com/newclues/#60). Gli annunci pubblicitari che sembrano umani ma provengono dagli intestini irritabili del vostro ufficio marketing, macchiano il tessuto del Web.
 
 
 [61](http://www.cluetrain.com/newclues/#61). Quando personalizzare qualcosa è raccapricciante, è un chiaro segnale che non capisci cosa significa essere una persona.
@@ -200,7 +200,7 @@
 [62](http://www.cluetrain.com/newclues/#62). Personale è umano. Personalizzato non lo è.
 
 
-[63](http://www.cluetrain.com/newclues/#63). Quanto più le macchine sembrano umane, tanto più scivolano nell'[uncanny valley](https://en.wikipedia.org/wiki/Uncanny_valley) dove ogni cosa è uno [spettacolo](http://www.theatlantic.com/technology/archive/2014/06/data-doppelgangers-and-the-uncanny-valley-of-personalization/372780/) [inquietante](http://www.niemanlab.org/2014/12/the-year-we-get-creeped-out-by-algorithms/) .
+[63](http://www.cluetrain.com/newclues/#63). Più le macchine sembrano umane e più scivolano nella [valle misteriosa](https://en.wikipedia.org/wiki/Uncanny_valley) dove ogni cosa è uno [spettacolo](http://www.theatlantic.com/technology/archive/2014/06/data-doppelgangers-and-the-uncanny-valley-of-personalization/372780/) [inquietante](http://www.niemanlab.org/2014/12/the-year-we-get-creeped-out-by-algorithms/) .
 
 
 [64](http://www.cluetrain.com/newclues/#64). E poi: smettetela di travestire gli annunci da notizie nella speranza che non ci accorgiamo dell'etichetta appesa alla loro biancheria intima.
@@ -217,16 +217,16 @@
 
 ##d. La Guantanamo della Rete.
 
-[68](http://www.cluetrain.com/newclues/#68). Tutti noi amiano le nostre brillanti app, perfino quando sono inaccessibili <!--- sigillate? --> quanto una base lunare. Ma metti insieme tutte le app inaccessibili del mondo e avrai solo un cumulo di app.
+[68](http://www.cluetrain.com/newclues/#68). Tutti amiamo le nostre brillanti app, perfino quando sono inaccessibili <!--- sigillate? --> quanto una base lunare. Ma mettete insieme tutte le app inaccessibili del mondo e avrete solo un cumulo di app.
 
 
-[69](http://www.cluetrain.com/newclues/#69). Metti insieme tutte le pagine web a avrai un nuovo mondo.
+[69](http://www.cluetrain.com/newclues/#69). Mettete insieme tutte le pagine web a avrete un nuovo mondo.
 
 
 [70](http://www.cluetrain.com/newclues/#70). Le pagine web sono connessione. Le app sono controllo.
 
 
-[71](http://www.cluetrain.com/newclues/#71). [Quando abbandoniamo il Web](http://dashes.com/anil/2012/12/rebuilding-the-web-we-lost.html) per un [mondo fatto di app](https://indiewebcamp.com/Principles), perdiamo i beni comuni che stavamo costruendo insieme.
+[71](http://www.cluetrain.com/newclues/#71). [Se lasciamo il web](http://dashes.com/anil/2012/12/rebuilding-the-web-we-lost.html) per un [mondo di app](https://indiewebcamp.com/Principles), perdiamo i beni comuni che stavamo costruendo insieme.
 
 
 [72](http://www.cluetrain.com/newclues/#72). Nel Regno delle App, siamo fruitori, non creatori.
@@ -241,18 +241,18 @@
 [75](http://www.cluetrain.com/newclues/#75). Ahi, un colpo basso!
 
 
-[76](http://www.cluetrain.com/newclues/#76). Ehi, "Colpo basso" sarebbe proprio una gran bella nuova app! C'è scritto "offre acquisti in app" dappertutto.
+[76](http://www.cluetrain.com/newclues/#76). Ehi, "Colpo basso" sarebbe proprio una gran bella nuova app! Con la scritta "offre acquisti in app" dappertutto.
 
 
-##e. La gravità è una gran cosa, fino a quando non ci risucchia tutti in un buco nero
+##e. La gravità è una gran cosa, fino a quando non ci risucchia tutti in un buco nero.
 
-[77](http://www.cluetrain.com/newclues/#77). Le [applicazioni sponsorizzate ](https://medium.com/message/net-neutrality-is-sooo-much-more-than-access-to-the-tubes-2344b1e9f220) sviluppate sulla Rete libera stanno diventando impossibili da sfuggire quanto l'attrazione di un buco nero.
-
-
-[78](http://www.cluetrain.com/newclues/#78). Se Facebook è la tua esperienza della Rete, allora ti sono stati messi addosso degli occhiali da una azienda che ha concordato con i suoi azionisti di impedirti di toglierteli.
+[77](http://www.cluetrain.com/newclues/#77). Le [applicazioni sponsorizzate ](https://medium.com/message/net-neutrality-is-sooo-much-more-than-access-to-the-tubes-2344b1e9f220) sviluppate sulla Rete libera stanno diventando inesorabili quanto l'attrazione di un buco nero.
 
 
-[79](http://www.cluetrain.com/newclues/#79). Google, Amazon, Facebook e Apple sono tutte nel business degli occhiali.  La principale verità che i loro occhiali sono in realtà paraocchi: queste aziende vogliono tenerci stretti nello stesso modo in cui i buchi neri trattengono la luce.
+[78](http://www.cluetrain.com/newclues/#78). Se Facebook è la vostra esperienza della Rete, allora vi sono stati messi addosso degli occhiali da una azienda che ha concordato con i suoi azionisti di impedirvi di toglierli.
+
+
+[79](http://www.cluetrain.com/newclues/#79). Google, Amazon, Facebook e Apple sono tutte nel business degli occhiali.  La principale verità è che i loro occhiali sono in realtà paraocchi: queste aziende vogliono tenerci stretti nello stesso modo in cui i buchi neri trattengono la luce.
 
 
 [80](http://www.cluetrain.com/newclues/#80). Queste singolarità aziendali sono pericolose non perché sono cattive. Molte di loro infatti si impegnano in azioni civiche di grande importanza. Dovrebbero essere apprezzate per questo.
@@ -264,7 +264,7 @@
 [82](http://www.cluetrain.com/newclues/#82). Dove non ci sono alternative competitive, dobbiamo essere estremamente vigili, per ricordare a questi Giganti della Valley i valori del Web che per primi li hanno ispirati.
 
 
-[83](http://www.cluetrain.com/newclues/#83). E poi abbiamo bisogno di onorare il suono che produciamo quando uno di noi si allontana coraggiosamente da loro. Qualcosa tra il frastuono di un razzo in partenza dalla piattaforma di lancio e lo strappo del Velcro quando slacci un vestito troppo stretto.
+[83](http://www.cluetrain.com/newclues/#83). E poi abbiamo bisogno di onorare il suono che produciamo quando uno di noi si allontana coraggiosamente da loro. Qualcosa tra il boato di un razzo in partenza dalla piattaforma di lancio e lo strappo del Velcro quando ci si slaccia un vestito troppo stretto.
 
 
 ##f. La privacy nell'era delle spie.
