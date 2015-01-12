@@ -24,13 +24,13 @@
 
 ##b. Internet non è niente, e non ha scopo.
 
-[8](http://www.cluetrain.com/newclues/#8). Internet non è una cosa più di quanto non lo sia la gravità. Entrambi ci avvicinano gli uni agli altri.
+[8](http://www.cluetrain.com/newclues/#8). Internet non è qualcosa più di quanto la gravità sia qualcosa. Entrambi ci avvicinano gli uni agli altri.
 
 
-[9](http://www.cluetrain.com/newclues/#9). Internet è del tutto immateriale. [Alla base](http://www.worldofends.com/) di Internet c'è un insieme di accordi, che i più nerd fra noi (possano i loro nomi essere venerati a lungo) chiamano "protocolli," ma che noi potremmo, nello spirito di questa occasione, chiamare "comandamenti."
+[9](http://www.cluetrain.com/newclues/#9). Internet è del tutto immateriale. [La sua fondazione](http://www.worldofends.com/) è un insieme di accordi, che i più nerd fra noi (i loro nomi siano benedetti) chiamano "protocolli," ma che noi potremmo, nel fervore del momento, chiamare "comandamenti."
 
 
-[10](http://www.cluetrain.com/newclues/#10). Il primo tra questi è: La tua rete muoverà i pacchetti a destinazione senza preferenze o ritardi in base a origine, sorgente, contenuto o intento.
+[10](http://www.cluetrain.com/newclues/#10). Il primo è: La tua rete muoverà i pacchetti a destinazione senza favore o ritardo in base a origine, sorgente, contenuto o intento.
 
 
 [11](http://www.cluetrain.com/newclues/#11). Possa perciò questo Primo Comandamento aprire Internet a ogni idea, applicazione, business, avventura, vizio e quant'altro.
@@ -39,18 +39,18 @@
 [12](http://www.cluetrain.com/newclues/#12). Non si è mai avuto uno strumento con uno scopo così generico dall'invenzione del linguaggio.
 
 
-[13](http://www.cluetrain.com/newclues/#13). Questo significa che Internet non è fatto per qualcosa in particolare. Non è fatto per i social network, né per i documenti, né per la pubblicità, né per il business, né per l'educazione, né per il porno, nè per nulla. E' progettato specificamente per fare tutto.
+[13](http://www.cluetrain.com/newclues/#13). Questo significa che Internet non è fatto per niente in particolare. Non è fatto per i social network, né per i documenti, né per la pubblicità, né per il business, né per l'educazione, né per il porno, nè per nulla. E' progettato specificamente per fare tutto.
 
 
-[14](http://www.cluetrain.com/newclues/#14). [Ottimizzare](http://books.google.com/books?id=9lTtWQlLkwwC&pg=PA56&lpg=PA56&dq=optimizing+de-optimizing+david+reed&source=bl&ots=_mqGSLoqSV&sig=TWO4uUTWkzGPDBGmwyS0uqBz0NA&hl=en&sa=X&ei=Nm5lVN-hJtbdsASnzoKQAQ&ved=0CCAQ6AEwAA#v=onepage&q=optimizing%20de-optimizing%20david%20reed&f=false) Internet per uno scopo lo de-ottimizza per tutti gli altri.
+[14](http://www.cluetrain.com/newclues/#14). Chi vuole [ottimizzare](http://books.google.com/books?id=9lTtWQlLkwwC&pg=PA56&lpg=PA56&dq=optimizing+de-optimizing+david+reed&source=bl&ots=_mqGSLoqSV&sig=TWO4uUTWkzGPDBGmwyS0uqBz0NA&hl=en&sa=X&ei=Nm5lVN-hJtbdsASnzoKQAQ&ved=0CCAQ6AEwAA#v=onepage&q=optimizing%20de-optimizing%20david%20reed&f=false) Internet per uno scopo lo de-ottimizza per tutti gli altri.
 
 
-[15](http://www.cluetrain.com/newclues/#15). Internet, come la gravità, è indiscriminato nella sua attrazione. Ci mette insieme, il virtuoso e il malvagio allo stesso modo.
+[15](http://www.cluetrain.com/newclues/#15). Internet, come la gravità, è indiscriminato nella sua attrazione. Ci mette insieme, [il giusto e l'ingiusto](http://wp-up.s3.amazonaws.com/wittgenstein/2012/06/peanuts_sui_giusti.jpg) allo stesso modo.
 
 
 ##c. La Rete non è contenuti.
 
-[16](http://www.cluetrain.com/newclues/#16). Ci sono incredibili contenuti su Internet. Ma, per Osiride e per Api, Internet non è fatta di contenuti.
+[16](http://www.cluetrain.com/newclues/#16). Ci sono incredibili contenuti su Internet. Ma, Santa Polenta, Internet non è fatta di contenuti.
 
 
 [17](http://www.cluetrain.com/newclues/#17). La prima poesia di un adolescente, la felice rivelazione di un segreto custodito a lungo, un bel disegno buttato giù da una mano paralitica, il post di un blog sotto un regime che odia il suono delle voci del suo popolo – nessuna di queste persone aveva intenzione di scrivere un contenuto.
@@ -114,7 +114,7 @@
 [34](http://www.cluetrain.com/newclues/#34). E tuttavia sentiamo la parola "frocio" e "negro" molto più sulla Rete che fuori.
 
 
-[35](http://www.cluetrain.com/newclues/#35). La demonizzazione degli 'altri' — persone con sguardi linguaggi, opinioni, appartenenza a comunità e gruppi che non capiamo, apprezziamo o tolleriamo — è peggiore che mai su Internet.
+[35](http://www.cluetrain.com/newclues/#35). La demonizzazione degli 'altri' — persone con aspetti, linguaggi, opinioni, appartenenza a comunità e gruppi che non capiamo, apprezziamo o tolleriamo — è peggiore che mai su Internet.
 
 
 [36](http://www.cluetrain.com/newclues/#36). Le donne in Arabia Saudita non possono guidare? Nel frattempo, [metà di noi](https://medium.com/message/online-and-offline-violence-towards-women-4c854eb591a5) non possono parlare sulla Rete senza [guardarsi alle spalle](http://www.theguardian.com/technology/2013/aug/05/twitter-bomb-threats-women).
@@ -123,16 +123,16 @@
 [37](http://www.cluetrain.com/newclues/#37). L'odio è presente in Rete perchè è presente nel mondo, ma la Rete lo rende più facile da esprimere e da sentire.
 
 
-[38](http://www.cluetrain.com/newclues/#38). La soluzione: Se avessimo una soluzione, non staremmo a rompervi con tutti questi dannati indizi.
+[38](http://www.cluetrain.com/newclues/#38). La soluzione: se avessimo una soluzione, non staremmo a rompervi con tutti questi dannati indizi.
 
 
-[39](http://www.cluetrain.com/newclues/#39). Pa possiamo dire questo: L'odio non ha creato la rete, but sta portando la Rete — e noi — indietro.
+[39](http://www.cluetrain.com/newclues/#39). Pa possiamo dire questo: L'odio non ha creato la rete, ma sta portando la Rete — e noi — indietro.
 
 
 [40](http://www.cluetrain.com/newclues/#40). Riconosciamo almeno che la Rete ha i suoi valori impliciti. Valori umani.
 
 
-[41](http://www.cluetrain.com/newclues/#41). Se la guardiamo freddamente, la  Rete è solo tecnologia. Ma è popolata da creature che si scaldano per quello  au cui tengono: le loro vite, i loro amici, il mondo che condividiamo.
+[41](http://www.cluetrain.com/newclues/#41). Se la guardiamo freddamente, la  Rete è solo tecnologia. Ma è popolata da creature che si scaldano per quello  a cui tengono: le loro vite, i loro amici, il mondo che condividiamo.
 
 
 [42](http://www.cluetrain.com/newclues/#42). La Rete ci offre un posto comune dove possiamo essere chi siamo, con altri che delight in our differences.
@@ -235,7 +235,7 @@
 [73](http://www.cluetrain.com/newclues/#73). Ogni nuova pagina rende il Web più grande. Ogni nuovo [link](http://it.wikipedia.org/wiki/Collegamento_ipertestuale) rende il Web più ricco.
 
 
-[74](http://www.cluetrain.com/newclues/#74). Ogni nuova app ci dà qualcosa da fare in autobus.
+[74](http://www.cluetrain.com/newclues/#74). Ogni nuova app ci dà qualcosa da fare sull'autobus.
 
 
 [75](http://www.cluetrain.com/newclues/#75). Ahi, un colpo basso!
@@ -252,7 +252,7 @@
 [78](http://www.cluetrain.com/newclues/#78). Se Facebook è la tua esperienza della Rete, allora ti sono stati messi addosso degli occhiali da una azienda che ha concordato con i suoi azionisti di impedirti di toglierteli.
 
 
-[79](http://www.cluetrain.com/newclues/#79). Google, Amazon, Facebook e Apple sono tutte nel business degli occhiali.  La principale verità che i loro occhiali celano: queste aziende vogliono tenerci stretti nello stesso modo in cui i buchi neri trattengono la luce.
+[79](http://www.cluetrain.com/newclues/#79). Google, Amazon, Facebook e Apple sono tutte nel business degli occhiali.  La principale verità che i loro occhiali sono in realtà paraocchi: queste aziende vogliono tenerci stretti nello stesso modo in cui i buchi neri trattengono la luce.
 
 
 [80](http://www.cluetrain.com/newclues/#80). Queste singolarità aziendali sono pericolose non perché sono cattive. Molte di loro infatti si impegnano in azioni civiche di grande importanza. Dovrebbero essere apprezzate per questo.
@@ -287,24 +287,24 @@
 [88](http://www.cluetrain.com/newclues/#88). E' giusto garantire la privacy personale a chi la vuole. E tutti stabiliamo dei limiti, a un certo punto.
 
 
-[89](http://www.cluetrain.com/newclues/#89). Domanda: Quanto pensi ci abbia messo la cultura pre-Web a capire dove stabilire i limiti? Risposta: Quanto vecchia è la cultura?
+[89](http://www.cluetrain.com/newclues/#89). Domanda: Quanto pensate ci abbia messo la cultura pre-Web a capire dove stabilire i limiti? La risposta è "Quanto vecchia è la cultura?""
 
-[90](http://www.cluetrain.com/newclues/#90). **Il Web ha a malapena superato la sua adolescenza.** E' solo l'inizio, non la fine, della storia della privacy.
+[90](http://www.cluetrain.com/newclues/#90). **Il Web ha a malapena superato la sua adolescenza.** Ci troviamo all'inizio, non alla fine, della storia della privacy.
 
 
-[91](http://www.cluetrain.com/newclues/#91). Potremo comprendere che cosa vuol dire privato, solo quando avremo capito cosa vuol dire sociale. E abbiamo appena iniziato a reinventare il concetto.
+[91](http://www.cluetrain.com/newclues/#91). Potremo comprendere che cosa vuol dire *privato* solo quando avremo capito cosa vuol dire *sociale*. Abbiamo appena iniziato a reinventare il concetto.
 
 
 [92](http://www.cluetrain.com/newclues/#92). Le spinte economiche e politiche che vorrebbero abbassarci i pantaloni e sollevarci la gonna sono così forti che faremo meglio a investire in mutande di stagnola.
 
 
-[93](http://www.cluetrain.com/newclues/#93). Sono gli hacker ad averci portato a questo e gli hacker dovranno tirarcene fuori.
+[93](http://www.cluetrain.com/newclues/#93). Gli hacker ad averci portato a questo, gli hacker dovranno tirarcene fuori.
 
 
 #Costruire e seminare
 ##a. Il richiamo dell'ipocrisia si sente molto bene, se sei in una bolla. 
 
-[94](http://www.cluetrain.com/newclues/#94). Internet è [sorprendente](http://www.reddit.com/r/internetisbeautiful). Il Web è fantastico. Voi siete stupendi. Connettiamoci tutti e saremo incredibilmente più straordinari di Jennifer Lawrence. E' un semplice dato di fatto.
+[94](http://www.cluetrain.com/newclues/#94). Internet è [fantastico](http://www.reddit.com/r/internetisbeautiful). Il Web è fantastico. Voi siete fantastici. Connettiamoci tutti e saremo incredibilmente più fantastici di Jennifer Lawrence. E' un semplice dato di fatto.
 
 
 [95](http://www.cluetrain.com/newclues/#95). E allora, non sminuiamo quello che la Rete ha fatto negli ultimi vent'anni.
@@ -316,22 +316,22 @@
 [97](http://www.cluetrain.com/newclues/#97). Siamo ora in grado di farci una cultura da soli, salvo occasionali incursioni al cinema per qualcosa di esplosivo e una dose di popcorn da 9 dollari.
 
 
-[98](http://www.cluetrain.com/newclues/#98). I politici devono ora spiegare le loro posizioni ben oltre il vecchio volantino elettorale [ciclostilato](http://en.wikipedia.org/wiki/Mimeograph "This is a scratch 'n' sniff word. Go ahead! Mmmm...").
+[98](http://www.cluetrain.com/newclues/#98). I politici devono ora spiegare le loro posizioni ben oltre il vecchio volantino elettorale ciclostilato.
 
 
 [99](http://www.cluetrain.com/newclues/#99). Per tutto ciò che non capisci, puoi trovare una spiegazione. E una discussione sull'argomento. E un dibattito. Non è forse fantastico, tutto questo?
-
+Per ogni cosa che non capite potete trovare una spiegazione. E una discussione a riguardo. E un litigio su di essa. Non è evidente quanto tutto ciò sia meraviglioso?
 
 [100](http://www.cluetrain.com/newclues/#100). Vuoi sapere cosa comprare? Il business che produce un oggetto del desiderio è ora la peggior fonte di informazioni su di esso. La migliore siamo tutti noi.
-
+Volete sapere cosa comprare? Le aziende che fanno un oggetto del desiderio non sono la migliore fonte d'informazione su di esso. La fonte migliore siamo tutti noi.
 
 [101](http://www.cluetrain.com/newclues/#101). Vuoi un corso di livello universitario su un argomento che ti interessa? Cerca su [Google](http://www.bing.com/search?q=google). Scegline uno. E' gratis.
 
 
-[102](http://www.cluetrain.com/newclues/#102). Certo, Internet non ha risolto tutti i problemi del mondo. Ecco perché Dio ci fatto dono delle chiappe: per farcele alzare dalla sedia.
+[102](http://www.cluetrain.com/newclues/#102). Certo, Internet non ha risolto tutti i problemi del mondo. Ecco perché l'Onnipotente ci fatto dono delle chiappe: per farcele alzare dalla sedia.
 
 
-[103](http://www.cluetrain.com/newclues/#103). I detrattori di Internet ci fanno rigare dritto. Diciamo che ci piacciono di più quando non sono ingrati.
+[103](http://www.cluetrain.com/newclues/#103). Gli oppositori di Internet ci mantengono onesti. Semplicemente li preferiamo quando non sono *ingrati*.
 
 
 ##b. Una manciata di luoghi comuni.
