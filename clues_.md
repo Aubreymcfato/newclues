@@ -105,7 +105,8 @@
 
 
 #Ma quanto abbiamo perduto la retta via, fratelli e sorelle...
-##a. E tuttavia, come abbiano potuto lasciare che la conversazione [diventasse un'arma?](http://blog.bl00cyb.org/2014/11/akirachix-and-weaponized-social/)?
+
+##a. E tuttavia, come abbiamo potuto lasciare che la conversazione [diventasse un'arma?](http://blog.bl00cyb.org/2014/11/akirachix-and-weaponized-social/)?
 
 
 [33](http://www.cluetrain.com/newclues/#33). È importante riconoscere e amare la conversazione, l'amicizia, i migliaia di atti di empatia, gentilezza e gioia che incontriamo su Internet.
@@ -303,6 +304,7 @@ Le tribù hanno dato vita al Noi contro Loro e alla guerra. Esultate? Mica tanto
 
 
 #Costruire e seminare
+
 ##a. Il richiamo dell'ipocrisia si sente molto bene, se sei in una bolla. 
 
 [94](http://www.cluetrain.com/newclues/#94). Internet è [sbalorditiva](http://www.reddit.com/r/internetisbeautiful). Il Web è fantastico. Voi siete bellissimi. Connettiamoci tutti e saremo più follemente meravigliosi di Jennifer Lawrence. È un semplice dato di fatto.
